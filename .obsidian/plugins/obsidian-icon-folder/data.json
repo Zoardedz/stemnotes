@@ -6,8 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "🌓",
-      "LiAtom"
+      "LiAudioWaveform",
+      "LiActivitySquare",
+      "⚛",
+      "LiBiohazard",
+      "🌓"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,6 +33,11 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "Chemistry/LO2.md": "LiAtom",
-  "Chemistry/Zumdahl-Chapter 7 notes.md": "LiAtom"
+  "Biology": "LiBiohazard",
+  "Chemistry": "⚛",
+  "Biology/LO2.md": {
+    "iconName": "LiActivitySquare",
+    "iconColor": "#331f98"
+  },
+  "Chemistry/LO3.md": "LiAudioWaveform"
 }

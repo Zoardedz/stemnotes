@@ -4,6 +4,8 @@
   "obsidian-tasks-plugin",
   "templater-obsidian",
   "table-editor-obsidian",
-  "editing-toolbar",
-  "better-word-count"
+  "better-word-count",
+  "obsidian-linter",
+  "obsidian-markdown-formatting-assistant-plugin",
+  "editing-toolbar"
 ]
