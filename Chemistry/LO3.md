@@ -16,7 +16,7 @@ All types of electromagnetic radiation travel at the speed of light in a vacuum.
 The relation between <font color="#ffff00">wavelength, frequency and light speed</font> is pretty straight forward as:
 $\lambda \nu = c$ Where $\lambda$ is the <font color="#ffff00">wavelength</font> in <font color="#00b0f0">meters</font>, while $\nu$ is the <font color="#ffff00">frequency</font> in <font color="#00b0f0">hertz</font>.
 
-<font color="#00b0f0">Electromagnetic waves</font> have different wavelength which is what differentiates one from another, refer to the following image:![](assets/ElectromagneticSpectrum.png)
+<font color="#00b0f0">Electromagnetic waves</font> have different wavelength which is what differentiates one from another, refer to the following image:![a](assets/ElectromagneticSpectrum.png)
 
 
 At the end of the nineteenth century, the idea of matter and energy being different was a thing, where they thought matter consisted of particles and energy in the form of electromagnetic radiation as a wave, they were described as massless and detached, while particles were described as things that had mass and position in space could be specified.
