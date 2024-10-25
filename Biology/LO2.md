@@ -176,4 +176,112 @@ The nucleus directs protein synthesis by mRNA, which is transported to the cytop
 Mitochondria and chloroplasts are the energy powerhouses for animal and plant cells. 
 Chloroplasts, are absent in animal cells because they *cannot* perform photosynthesis, however mitochondria is present in both cells.
 
-They convert energy to forms that cells can use for work. Mitochondria is responsible for the cell respiration as it drives the generation of ATP (Adenosine Triphosphate) by extracting the energy from fats, sugars and fuels. Chloroplast are the site of photosynthesis in the plant cell where they perform 
+They convert energy to forms that cells can use for work. Mitochondria is responsible for the cell respiration as it drives the generation of ATP (Adenosine Triphosphate) by extracting the energy from fats, sugars and fuels. Chloroplasts are the site of photosynthesis in the plant cell where they perform absorption of solar energy (Sunlight) and convert it to chemical energy and using the sunlight to synthesize organic compounds like sugar and glucose from CO<sub>2</sub> and Water.
+
+The mitochondria and chloroplasts also share evolutionary characteristics, they display similarities to bacteria which led to the *endosymbiont theory* which states that an early ancestor of eukaryotic cells (A host cell) covered over an oxygen breathing (aerobic, antonym is anaerobic) prokaryotic cell that doesn't perform photosynthesis, eventually the covered cell formed a relationship with the host cell (eukaryotic cell) becoming an *endosymbiont* which is a cell living in another cell. The evolution led to the eukaryotic cell being the parent cell and the prokaryote evolved to become the mitochondrion of the cell.
+
+At least one of those eukaryotic cells have taken a photosynthetic prokaryote, which led to the existence of chloroplasts, this theory is consistent with many structural features of mitochondria and chloroplasts.
+
+The theory is furthermore strengthened by the fact that the theory is consistent with many structural features of mitochondria and chloroplasts in:
+1. Rather than being bounded by one membrane from the EMS it's bound by two membranes, which implies that it is in fact a prokaryotic cell inside of an Eukaryotic cells membrane, chloroplasts also have an internal system of membranous sacs.
+2. Like prokaryotes, mitochondria and chloroplasts contain ribosomes as well as circular DNA molecules like bacteria's nucleoid, these program the synthesis of some organelle proteins on ribosomes that have been synthesized, and assembled in the ribosomes as well.
+3.  Mitochondria and Chloroplasts are autonomous (somewhat independent from the cell) organelles that grow and reproduce inside the cell. 
+![[EndosymbiontTheory.png]]
+We'll also consider the peroxisome's evolutionary origins later.
+
+Mitochondria is found in nearly all eukaryotic cells, including animals, plants, fungi and protists. Some cells have a single mitochondrion but more often a cell has hundreds or even thousands of mitochondria (as stated previously, mitochondria have the ability to divide).
+
+The number correlates to the cell's level of metabolic activity for example small intestines may have a large number of mitochondria filled cells, same thing for cells that move or contract have more mitochondria per volume than less active cells.
+
+Each of the two membranes enclosing the mitochondrion is a phospholipid bilayer, so that's two layers of phospholipid bilayers, with a unique collection of embedded proteins.
+The outer membrane is smooth but the inner membrane is convoluted, with infoldings called cristae.
+The inner membrane divides the mitochondrion into two internal compartments, the intermembrane space which is the space between the inner and outer membranes.
+And the second compartment, the mitochondria's matrix, it's enclosed by the inner membrane, which is practically the space that the mitochondria's organelles roam in.
+
+It has different enzymes as well as the DNA and ribosomes, the enzymes in the matrix catalyze (speed up) some steps of cellular respiration, other proteins that function in respiration including the enzymes that make ATP are produced from the ribosomes and are built in the inner membrane as highly folded surfaces. The cristae gives the inner membrane a large surface area, therefore enhancing the productivity of cellular respiration.
+
+Mitochondria are generally in the range of 1 to 10 micro meters long, they also move around, change shapes and fuse or divide into separate fragments.
+![[Mitochondria.png]]
+
+
+Chloroplasts, contain the green pigment *chlorophyll* which gives the plant cell and the plant in general a green color, there's another colored pigment called chromoplasts, along with enzymes and other molecules that function in the photosynthetic production of sugar, the organelle is lens shaped and about 3 to 6 micrometers in length, they're found in leaves and other green organs of plants and in algae.
+
+The contents of the chloroplast are partitioned from the cytosol by an envelope consisting of two membranes separated by a very narrow intermembrane space.
+
+Inside the chloroplast is another membranous system, in the form of flattened, interconnected sacs called thylakoids. In some regions thylakoids are stacked like poker chips (I LOVE GAMBLING!!!!!) each stack is called a granum. The fluid outside the thylakoids is the stroma, which contains the chloroplast DNA and ribosomes as well as many enzymes (this is literally just the cytosol of chloroplast).
+
+The membranes of the chloroplast divide the chloroplast space into three compartments, the intermembrane space, the stroma and the thylakoid space. This organization enables the chloroplast to convert light energy to chemical energy.
+![[chloroplast.png]]
+The chloroplast, much like the mitochondria is dynamic and flexible, it can change size, grow and shrink.
+
+They are mobile and with mitochondria and other organelles they move along the tracks of the *cytoskeleton* a structural network.
+
+The chloroplast is a specialized member of a family of closely related plant organelles called plastids, one type of plastic is the amyloplast which is a colorless organelle that stores starch (amylose) particularly in roots and tubers, another is the chromoplast, as I said earlier.
+
+Peroxisomes, are a metabolic compartment bounded by a single membrane which implies that it's hard that the endosymbiont theory be applied to it, because it has a single membrane.
+
+Peroxisomes contain enzymes that remove hydrogen atoms from substrates and transfer them to oxygen producing hydrogen peroxide as a byproduct.
+These reactions have different functions, some peroxisomes use oxygen to break fatty acids down to smaller molecules that are transported to mitochondria and used as fuel for cellular respiration.
+
+Peroxisomes, much like SER detoxify alcohol and other harmful compounds by transferring hydrogen from poisonous compounds to oxygen. H2O2 is in fact toxic but the organelle contains enzymes that deconstruct it into water.
+
+A type of peroxisomes found in plants called glyoxysomes are found in the fat storing tissues of plant seeds. They have enzymes that convert fatty acids, much like peroxisomes but directly into sugar, which the small seedling uses as a source of energy and carbon until it can produce sugar by photosynthesis.
+
+Peroxisomes grow larger by taking in proteins made in the ER (lipids) and the cytosol.
+
+The cytoskeleton is a network of fibers that organizes the structure and activity of the cell, they exist to help the cell mainly move and take a proper shape, scientists thought that the organelles floated freely in the cytosol, but the cytoskeleton, which is a network of fibers extending throughout the cytoplasm held them in place with mechanical support.
+This is especially useful for animal cells because they lack cell walls.
+
+It has immaculate power for it's thickness, like a dome tent, cytoskeletons are stabilized by a balance between opposing forces exerted by its elements.
+The cytoskeleton provides anchorage for many organelles and even cytosolic enzymes (wraps around the membranes), however the cytoskeleton is more dynamic than a normal skeleton. It can be dismantled in one part of the cell and reassembled in a new location, changing the shape of the cell.
+
+The cell motility (change in cell & organelle position) also involves the cytoskeleton, this requires interfacing with motor proteins. Cytoskeleton filaments act like the railway of a train, while the vesicle or thing to be transported acts like the train, it has receptors where motor proteins (ATP powered) attach and move like it has legs along the filament.
+
+The cytoskeleton also manipulates the cell membrane, bending it inward to form food vacuoles or other phagocytic vesicles.
+
+There are 3 types of fibers that make up the cytoskeleton, Microtubules are the thickest of the three types, microfilaments (Actin filaments) are the thinnest and intermediate filaments are in the absolute middle.
+
+![[cytoskeleton.png]]
+
+
+To compare between animal cells and plant cells we can say that animal cells use ATP for energy, they get provided ATP from the mitochondria, as its not photosynthetic and doesn't have chloroplast.
+Meanwhile the plant cell has the chloroplast AND mitochondria to provide energy to the cell through sugar compounds, it has chloroplast to make its own food and mitochondria for regular plant breathing.
+
+Animal cells communicate with neighboring cells through cell junctions and glycoproteins & glycolipids, meanwhile plant cells have a cell wall which unfortunately breaks contact,, BUTTT they have something called plasmodesmata that pass through the connecting cell walls.
+
+The nucleus lies on one side of the cell in the plant cell, but in an animal cell it lies in the middle, as also stated before, mitochondria exist in plant cells but they're fewer in number, in animal cells they're large in number.
+Plastids are present in plant cells meanwhile absent in animal cells, plant cells also lack centrosomes which causes them to use their cell membrane through condensation to make spindle fibers for cell mitosis or meiosis, meanwhile in an animal cell, centrosomes are present which go to the two poles of the cell and extend spindle fibers.
+
+A large central vacuole for food and everything exists in plant cells, meanwhile in animal cells, smaller unmerged vacuoles exist.
+
+As known, plant cells have a certain shape due to the cell wall and animal cells have an irregular shape, their sizes respectively are around 10-100 micrometers and 10-30 micrometers, only animal cells have something such as cilia or flagella, plants also lack cholesterol in cell membranes.
+
+Plant cells also store excess glucose or sugar as starch, while animal cells store glucose as glycogen in the liver (using the glucagon hormone from the pancreas.).
+
+Tuberculosis, also known as the "white plague" or historically known as consumption is an infectious disease which is caused by the Mycobacterium tuberculosis (Koch's Bacillus) bacteria. It generally affects the lungs and digs cavities inside it, it also can affect other parts of the body.
+
+It spreads through the air when a person with the illness coughs, sneezes, spits or even speaks, so it's an infectious, air transmitted disease. The infection starts off with a stage called Primary TB infection. where the immune system finds the cells and germs and starts to kill them, it may completely destroy the germs but some germs might still survive and multiply, people don't usually get symptoms in this stage, but if it's slightly severe they get an emergency response from their body such as: low fever, fatigue and a cough.
+
+The stage that follows is called latent TB infection, in which case it shows no symptoms and lies dormant in the body because the immune system builds a wall around lung tissue with the TB germs, they cannot do any harm if they're kept under control but the germs survive. But around 10% of them evolve into active disease that, if left untreated kills about half of those affected by latent TB.
+
+Active TB is the stage after latent TB with a delay of months or years or after the primary TB directly, it happens when the immune system can't control the infection, the germs cause disease throughout the lungs or other parts of the body, its symptoms include: Coughing, coughing up blood or mucus, chest pain, pain with breathing or coughing, fever, chills, night sweats, weight loss, not wanting to eat, fatigue and not feeling well. All of the previous happen in the lungs and other parts of the body (lung TB is called pulmonary TB).
+
+The infection sites could be in the larynx, kidneys, liver, fluid surrounding the brain and spinal cord, heart muscles, genitals, lymph nodes, bones and joints, skin and walls of blood vessels.
+
+The risk factors are mainly smoking and HIV/AIDS because this heavily impacts the immune system, Tuberculosis mainly causes huge cavities and decay of the lungs, such as the following image.![[Cavitary_tuberculosis.jpg]]
+These cavities are identified through X-rays as well as microscopic examination and culture of bodily fluids, while for latent TB it relies on a tuberculin skin test (TST) which is also called the Mantoux test is a tool for diagnosing and screening TB, a standard dose of 5 tuberculin (protein) units is injected on the intradermal flexor surface of the left forearm, midway between elbow and wrist, an inflammation happens in the area in a delayed time and the redness is measured where 5mm of redness has certain criteria and so does 10 and 15. or blood tests instead of the Mantoux test.
+
+A person who's taking tuberculosis treatment meds can't transmit the disease after 2 to 3 weeks.
+
+Some forms of TB have become drug resistant, which means that drugs that once cured the disease no longer work.
+
+It mainly targets all ages, under 5 years they have a high risk of TB becoming active TB, the risk is greater for ages < 2. Tuberculosis causes some serious damage during this stage, such as brain and spinal cord fluid damage.
+Ages 15 to 25, have a higher chance to develop more severe ATB.
+65 or older, have a higher risk and it may be even harder to treat.
+
+TB treatment can be done by the bacillus Calmette-Guérin vaccine (BCG) where infants are often vaccinated by this which protects infants and toddlers who are more likely to have active TB, although this may not protect against the disease in the lungs.
+
+TB prevention can be 2 things: you may need to take drugs to prevent latent TB from becoming active TB or in the case of it being active then you must prevent the spreading of the disease, you should take the drugs or meds for four, six or nine months.
+During the first two or three weeks you'll be able to pass the TB to others, protect them by staying home, isolating yourself and ventilating the room, wear masks and covering your mouth during coughing, don't spit or talk near other people.
+
+It may also cause a firm red or purple swelling under the skin, cause urine to contain blood, headaches or confusion, back pain and hoarseness.

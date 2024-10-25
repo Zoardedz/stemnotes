@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiTableCellsMerge",
       "LiAudioWaveform",
       "LiActivitySquare",
       "⚛",
-      "LiBiohazard",
-      "🌓"
+      "LiBiohazard"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,9 +35,6 @@
   },
   "Biology": "LiBiohazard",
   "Chemistry": "⚛",
-  "Biology/LO2.md": {
-    "iconName": "LiActivitySquare",
-    "iconColor": "#331f98"
-  },
+  "Biology/LO2.md": "LiTableCellsMerge",
   "Chemistry/LO3.md": "LiAudioWaveform"
 }

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "80fc1bff0e7d4f87",
+        "id": "d629ef3d66ceffde",
         "type": "tabs",
         "children": [
           {
-            "id": "b3966802083ea54d",
+            "id": "b52fc4f9bedda09f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/LO3.md",
+                "file": "Biology/LO2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LO3"
+              "title": "LO2"
             }
           }
         ]
@@ -167,7 +167,7 @@
             }
           },
           {
-            "id": "937b780ebb02b847",
+            "id": "049d2dd23fa29d41",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -199,23 +199,24 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "b3966802083ea54d",
+  "active": "2230a29c817a7222",
   "lastOpenFiles": [
-    "assets/Metal-flame-test-colours-2024.webp",
+    "assets/Cavitary_tuberculosis.jpg",
+    "assets/chloroplast.png",
+    "assets/cytoskeleton.png",
+    "Biology/LO2.md",
     "Chemistry/LO3.md",
+    "assets/Mitochondria.png",
+    "assets/EndosymbiontTheory.png",
+    "assets/Metal-flame-test-colours-2024.webp",
     "assets/3d.png",
     "assets/3porbital.png",
     "Pasted image 20241025004416.png",
     "assets/porbital.png",
     "assets/emissions.png",
     "Pasted.md",
-    "assets/Pasted image 20241020221011.png",
-    "assets/ElectromagneticSpectrum.png",
-    "assets/Pasted image 20241022154141.png",
-    "assets/Pasted image 20241021231614.png",
     "().md",
     "Chemistry/LO2.md",
-    "Biology/LO2.md",
     "Untitled.canvas",
     "Obsidian.lnk",
     "2024-10-18.md",

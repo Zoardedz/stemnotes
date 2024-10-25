@@ -103,7 +103,7 @@ Valence numbers are the electrons gained or lost in a chemical reaction, differe
 An element called a spectrophotometer is an instrument the measures the amount of photons absorbed by an electron, it's exactly when a photon or two with a certain frequency to change the energy state of the atom from ground state to a higher state, the inverse happens in emissions, emissions cause the electron to decrease in energy levels.
 
 > [!abstract] 
->  Flame tests
+>  # Flame tests
 
 Flame tests are generally an easy concept because you take whatever compound/element you want and burn it to see the abundancy percentage or see a wavelength or emission speed or whatever, each metal burns with a specific color, for example strontium's burning color is bright red, called strontium red.
 This happens because the heat of the flame excites the electrons of the metals causing them to emit visible light.![](Metal-flame-test-colours-2024.webp)

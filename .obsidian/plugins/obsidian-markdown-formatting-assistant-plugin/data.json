@@ -18,7 +18,7 @@
     {
       "name": "textEdit",
       "active": true,
-      "visible": true
+      "visible": false
     },
     {
       "name": "tables",
@@ -28,12 +28,12 @@
     {
       "name": "html",
       "active": true,
-      "visible": true
+      "visible": false
     },
     {
       "name": "latex",
       "active": true,
-      "visible": true
+      "visible": false
     },
     {
       "name": "greekLetters",
@@ -48,7 +48,7 @@
     {
       "name": "callouts",
       "active": true,
-      "visible": true
+      "visible": false
     }
   ]
 }
