@@ -158,11 +158,11 @@ The nuclear envelope itself is a double membrane (a bilayer bilayer) the two lay
 An intricate protein structure called a pore complex lines each pore and functions by regulating entry and exit of proteins, RNAs and macromolecules. 
 ![[Pasted image 20241022150819.png]]
 
-The nuclear side of the envelope is lined by the *nuclear lamina* a netlike array of protein filaments (in animal cells they're called intermediate cells) that maintain the shape of the nucleus by mechanically supporting the nuclear envelope.
+The nuclear side of the envelope is lined by the *nuclear lamina* a netlike array of protein filaments (in animal cells they're called intermediate filaments) that maintain the shape of the nucleus by mechanically supporting the nuclear envelope, except at the pores.
 
 There's also a nuclear matrix which is a framework of protein fibers extending in the nucleus' interior, both of the last two mentioned help the organization of genetic material so the cell functions efficiently.
 
-The units in the cell are called chromosomes which are chemically composed of DNA wrapped around protein and the physical structure is two chromatids wrapped around eachother connecting at the centromere. Each chromosome contains one long DNA molecule associated with many proteins (including basic proteins called Histones which provide structural integrity (wraps the DNA around histones) for chromosomes.) The components that make up the DNA and proteins that make up chromosomes is called chromatin reticulum. The chromatin, in regular conditions (no mitosis) don't have a distinguishable shape until the cell starts splitting, it densifies with other chromatin to form one chromosome that finally become distinguishable. Each separate animal has a defined number of chromosomes.
+The units in the cell are called chromosomes which are chemically composed of DNA wrapped around protein and the physical structure is two chromatids wrapped around eachother connecting at the centromere. Each chromosome contains one long DNA molecule associated with many proteins (including basic proteins called Histones which provide structural integrity (wraps the DNA around histones) for chromosomes.) The components that make up the DNA and proteins that make up chromosomes is called chromatin reticulum. The chromatin, in regular conditions (no mitosis) don't have a distinguishable shape until the cell starts splitting, it densifies with other chromatin to form one chromosome that finally become distinguishable. Each separate animal has a defined number of chromosomes, it appears as a diffuse mass when undividing.
 
 ![[Pasted image 20241022154141.png]]
 
