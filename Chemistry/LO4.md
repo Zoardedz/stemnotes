@@ -33,7 +33,7 @@ The electronic affinity of an atom is the ability of an atom to accept an electr
 Electronic affinity generally decreases down a group of elements because each atom is larger than the atom above it. (Atomic radius trend, by going down, radius increases). 
 This means that an atom with a high atomic radius has more ionization energy than electronic affinity because it wants to lose those electrons and become a positive ion, with a smaller distance this causes the nucleus to have greater attraction abilities, therefore increasing electronic affinity from left to right of the periodic table, from bottom to up, therefore Fluorine is the most electronically affinage, because it has a small atomic radius and is at the top of the last group.
 
-![s](..//assets//periodicity-58ed43915f9b582c4d8c33e5.webp)
+![](../assets/periodicity-58ed43915f9b582c4d8c33e5.webp)
 
 > [!important] 
 >  # Comparison between metals, non-metals and metalloids.

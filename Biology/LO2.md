@@ -4,11 +4,11 @@ Cells, are the smallest building unit of life, they are split into two types: Pr
 
 To start off, we’ll talk about <em><font color="#f79646">Prokaryotic cells</font></em> since they’re the smaller brother of <em><font color="#f79646">Eukaryotic cells</font></em>, they’re way smaller than Eukaryotic cells and are way simpler, they’re all unicellular, *they don’t have a nucleus*, unlike eukaryotes, (*represented in the opposite figure*), the DNA is just floating about in the cytoplasm. The DNA in the following bacteria (prokaryote) is called circular DNA (note that DNA stands for Deoxyribonucleic acid).
 
-![[Pasted image 20241020221011.png]]
+![](../assets/prokaryote.png)
 
 In normal eukaryotes, DNA is more *linear* (*called linear chromosomes, it can also take the form of circular molecules*), Prokaryotes are mostly things like bacterium and archaea, prokaryotes mostly reproduce through ***binary fission*** since they don’t have ***centrosomes or a nucleus** like a regular Eukaryote.* 
 
-![[Pasted image 20241020221342.png]]
+![](../assets/DNA.png)
 
 ***Prokaryotes*** mainly consist of no *nucleus* although it’s substituted area is called *nucleoid*, *cytoplasm (non-distinctive), plasmids (non-distinctive), a capsule, cell wall, outside pill lining (fimbriae) and flagellum (all of the previous are distinctive).* ***They also lack chloroplast and mitochondria or any membrane organelle, as they don’t have an endomembrane system. (they only have cell membrane)***.
 
@@ -64,7 +64,7 @@ glycolipids or with proteins to form glycoproteins, their function is to allow c
 recognize each other. Cell membranes are supported by cytoskeletons to maintain
 their shapes.
 
- ![[Pasted image 20241021193136.png]]
+ ![](../assets/cellmembrane.png)
 Glycoproteins mainly are used as a defensive mechanism and also allow cells to identify eachother and link up.
 
 Glycolipids' roles are to mainly contain cell membrane stability and facilitate cellular recognition.
@@ -90,16 +90,16 @@ organisms. With a process called phagocytosis, the food vacuole formed this way 
 fused with a lysosome to digest the food with its enzymes. The digestion products
 become amino acids and simple sugars and spread into the cytosol, some human cells
 also do cytosis such as macrophages (white blood cell type, not bacteriophages).
-![[Pasted image 20241021220346.png]]
+![](../assets/lysosomes.png)
 
 Lysosomes also perform something called autophagy, when needed to recycle the cell’s own organic material when an organelle is damaged. Like phagocytosis, it covers the damaged organelle with a double membrane and the lysosome fuses with it, the enzymes dissolve the organelle’s membrane and breaks down the organic material, releasing it to the cytosol again for reuse.
 
-![[Pasted image 20241021230428.png]]
+![l](../assets/lysosomes2.png)
 The endoplasmic reticulum is such a large network in the cell that it accounts for more than half the total membrane in a cell. The membranous tubules that outline and determine the shape of the ER is called the cisternae, as it’s derived from the Latin word cisterna, a reservoir for liquid. That membrane separates the internal part of the ER, called a lumen (cavity) or also called cisternal space.
 
 There are two types of ER, although connected, differ in shape and function, which are the rough ER and the smooth ER, the rough is called so because it’s lined with ribosomes all around (responsible for protein synthesis which we’ll talk about later.)
 
-![[Pasted image 20241021230514.png]]
+![](../assets/er.png)
 SER perform a lot of functions which vary with cell type but said functions are mainly: synthesis of lipids, metabolism of carbohydrates and detoxification of drugs and poisons, and storage of calcium ions.
 
 The SER enzymes are the ones responsible for the creation of lipids for lipoproteins, oils and steroids and new membrane phospholipids. From said steroids are steroid hormones secreted by adrenal glands and in animal cells are the sex hormones of vertebrates.
@@ -128,7 +128,7 @@ Vesicles are like transport vehicles since they transport proteins and other pro
 
 In addition, RER is also responsible for the production of membranes in the cell, it grows in place by adding membrane proteins and phospholipids to its own membrane as polypeptides (chains of repeating amino acid units linked by a grow from the ribosomes that want to be membranes, they are inserted into the ER membrane and anchored by the hydrophobic parts (heads).
 
-The RER also synthesizes phospholipids just like the SER enzymes in the ER assemble the lipids from nutrients and things from the cytosol, the ER cisternae expands and the product phospholipids are transferred using the vesicles to other components in the ES.![[Pasted image 20241021231559.png]]
+The RER also synthesizes phospholipids just like the SER enzymes in the ER assemble the lipids from nutrients and things from the cytosol, the ER cisternae expands and the product phospholipids are transferred using the vesicles to other components in the ES.![](../assets/golgi.png)
 The Golgi apparatus is quite literally the warehouse of the cell, the products of the ER are transported here using vesicles and processed, and either is stored or sent to another site of a cell.
 
 They’re extremely common in a cell which transport a lot of stuff around.
@@ -139,12 +139,12 @@ The Golgi has two sides of a stack which are referred to as the cis face and tra
 
 Transport vesicles move the material from the ER to the Golgi apparatus the vesicle then adds its membrane and the contents of its lumen to the cis face by fusing with the Golgi membrane on that side. The Golgi mainly processes and changes things in the incoming material for example: the glycoproteins have their carbohydrates modified in the Golgi and sends it back through the trans side.
 
-The released vesicle reaches the cell membrane and the contents are released, the vesicle’s membrane fuses with the cell membrane’s adding to its surface area.![[Pasted image 20241021231614.png]]
+The released vesicle reaches the cell membrane and the contents are released, the vesicle’s membrane fuses with the cell membrane’s adding to its surface area.![](../assets/golgi2.png)
 Vacuoles, are large vesicles in the cell, they are derived from the endoplasmic reticulum and Golgi apparatus, it’s very selective in transporting solutes, which causes the vacuole’s insides to be different from the cytosol’s.
 
 Many unicellular protists that live in fresh water have contractile vacuoles that pump excess water out of the cell, therefore containing a certain concentration (ratio) of ions and molecules required in the cell.
 
-In some fungi and plants, cells perform a task called enzymatic hydrolysis, which is a process that breaks down bonds of molecules easily using enzymes which is shared with lysosomes.![[Pasted image 20241021231828.png]]
+In some fungi and plants, cells perform a task called enzymatic hydrolysis, which is a process that breaks down bonds of molecules easily using enzymes which is shared with lysosomes. ![](../assets/vacuole.png)
 Some plants use the vacuoles to store proteins stockpiled in the storage cells in seeds. Vacuoles can also store poison or toxic chemicals to avoid predators, like capsaicin, it can be stored in vacuoles and exerted to deter predators who eat it.
 
 They also have pigments that give the petals color to attract pollinating insects like bees.
@@ -156,7 +156,7 @@ The nucleus, contains most of the genes in the Eukaryotic cell, some genes are l
 
 The nuclear envelope itself is a double membrane (a bilayer bilayer) the two layers are separated by around 20-40 nanometers. The envelope is covered by pore structures that are about 100 nanometers in diameter, at the lip of each pore, the inner and outer membranes of the nuclear envelope are continuous.
 An intricate protein structure called a pore complex lines each pore and functions by regulating entry and exit of proteins, RNAs and macromolecules. 
-![[Pasted image 20241022150819.png]]
+![](../assets/nucleus.png)
 
 The nuclear side of the envelope is lined by the *nuclear lamina* a netlike array of protein filaments (in animal cells they're called intermediate filaments) that maintain the shape of the nucleus by mechanically supporting the nuclear envelope, except at the pores.
 
@@ -164,12 +164,12 @@ There's also a nuclear matrix which is a framework of protein fibers extending i
 
 The units in the cell are called chromosomes which are chemically composed of DNA wrapped around protein and the physical structure is two chromatids wrapped around eachother connecting at the centromere. Each chromosome contains one long DNA molecule associated with many proteins (including basic proteins called Histones which provide structural integrity (wraps the DNA around histones) for chromosomes.) The components that make up the DNA and proteins that make up chromosomes is called chromatin reticulum. The chromatin, in regular conditions (no mitosis) don't have a distinguishable shape until the cell starts splitting, it densifies with other chromatin to form one chromosome that finally become distinguishable. Each separate animal has a defined number of chromosomes, it appears as a diffuse mass when undividing.
 
-![[Pasted image 20241022154141.png]]
+![](../assets/nucleuscomponents.png)
 
 A type of RNA (ribosomal RNA (rRNA)) is synthesized inside the nucleolus from the genes of the DNA, proteins are also imported from the cytoplasm and assembled with rRNA into large and small subunits of ribosomes, produced subunits exit the cell through the pores to the cytoplasm and they can assemble into a ribosome (probably go to the Golgi apparatus), sometimes there are two or more nucleoli in a nucleus and it depends on the species and the stage in the cell's reproductive cycle. Nucleoli also control the cell division and the life span of the cell.
 
 The nucleus directs protein synthesis by mRNA, which is transported to the cytoplasm via nuclear pores it gets translated by ribosomes into the primary structure of a specific polypeptide.
-![[Pasted image 20241022153948.png]]
+![](../assets/ribosome.png)
 
 
 
@@ -186,7 +186,7 @@ The theory is furthermore strengthened by the fact that the theory is consistent
 1. Rather than being bounded by one membrane from the EMS it's bound by two membranes, which implies that it is in fact a prokaryotic cell inside of an Eukaryotic cells membrane, chloroplasts also have an internal system of membranous sacs.
 2. Like prokaryotes, mitochondria and chloroplasts contain ribosomes as well as circular DNA molecules like bacteria's nucleoid, these program the synthesis of some organelle proteins on ribosomes that have been synthesized, and assembled in the ribosomes as well.
 3.  Mitochondria and Chloroplasts are autonomous (somewhat independent from the cell) organelles that grow and reproduce inside the cell. 
-![[EndosymbiontTheory.png]]
+![](../assets/EndosymbiontTheory.png)
 We'll also consider the peroxisome's evolutionary origins later.
 
 Mitochondria is found in nearly all eukaryotic cells, including animals, plants, fungi and protists. Some cells have a single mitochondrion but more often a cell has hundreds or even thousands of mitochondria (as stated previously, mitochondria have the ability to divide).
@@ -201,7 +201,7 @@ And the second compartment, the mitochondria's matrix, it's enclosed by the inne
 It has different enzymes as well as the DNA and ribosomes, the enzymes in the matrix catalyze (speed up) some steps of cellular respiration, other proteins that function in respiration including the enzymes that make ATP are produced from the ribosomes and are built in the inner membrane as highly folded surfaces. The cristae gives the inner membrane a large surface area, therefore enhancing the productivity of cellular respiration.
 
 Mitochondria are generally in the range of 1 to 10 micro meters long, they also move around, change shapes and fuse or divide into separate fragments.
-![[Mitochondria.png]]
+![](../assets/Mitochondria.png)
 
 
 Chloroplasts, contain the green pigment *chlorophyll* which gives the plant cell and the plant in general a green color, there's another colored pigment called chromoplasts, along with enzymes and other molecules that function in the photosynthetic production of sugar, the organelle is lens shaped and about 3 to 6 micrometers in length, they're found in leaves and other green organs of plants and in algae.
@@ -211,7 +211,7 @@ The contents of the chloroplast are partitioned from the cytosol by an envelope 
 Inside the chloroplast is another membranous system, in the form of flattened, interconnected sacs called thylakoids. In some regions thylakoids are stacked like poker chips (I LOVE GAMBLING!!!!!) each stack is called a granum. The fluid outside the thylakoids is the stroma, which contains the chloroplast DNA and ribosomes as well as many enzymes (this is literally just the cytosol of chloroplast).
 
 The membranes of the chloroplast divide the chloroplast space into three compartments, the intermembrane space, the stroma and the thylakoid space. This organization enables the chloroplast to convert light energy to chemical energy.
-![[chloroplast.png]]
+![](../assets/chloroplast.png)
 The chloroplast, much like the mitochondria is dynamic and flexible, it can change size, grow and shrink.
 
 They are mobile and with mitochondria and other organelles they move along the tracks of the *cytoskeleton* a structural network.
@@ -241,7 +241,7 @@ The cytoskeleton also manipulates the cell membrane, bending it inward to form f
 
 There are 3 types of fibers that make up the cytoskeleton, Microtubules are the thickest of the three types, microfilaments (Actin filaments) are the thinnest and intermediate filaments are in the absolute middle.
 
-![[cytoskeleton.png]]
+![](../assets/cytoskeleton.png)
 
 
 To compare between animal cells and plant cells we can say that animal cells use ATP for energy, they get provided ATP from the mitochondria, as its not photosynthetic and doesn't have chloroplast.
@@ -268,7 +268,7 @@ Active TB is the stage after latent TB with a delay of months or years or after 
 
 The infection sites could be in the larynx, kidneys, liver, fluid surrounding the brain and spinal cord, heart muscles, genitals, lymph nodes, bones and joints, skin and walls of blood vessels.
 
-The risk factors are mainly smoking and HIV/AIDS because this heavily impacts the immune system, Tuberculosis mainly causes huge cavities and decay of the lungs, such as the following image.![[Cavitary_tuberculosis.jpg]]
+The risk factors are mainly smoking and HIV/AIDS because this heavily impacts the immune system, Tuberculosis mainly causes huge cavities and decay of the lungs, such as the following image.![](../assets/Cavitary_tuberculosis.jpg)
 These cavities are identified through X-rays as well as microscopic examination and culture of bodily fluids, while for latent TB it relies on a tuberculin skin test (TST) which is also called the Mantoux test is a tool for diagnosing and screening TB, a standard dose of 5 tuberculin (protein) units is injected on the intradermal flexor surface of the left forearm, midway between elbow and wrist, an inflammation happens in the area in a delayed time and the redness is measured where 5mm of redness has certain criteria and so does 10 and 15. or blood tests instead of the Mantoux test.
 
 A person who's taking tuberculosis treatment meds can't transmit the disease after 2 to 3 weeks.
