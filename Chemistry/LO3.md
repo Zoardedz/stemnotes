@@ -16,7 +16,7 @@ All types of electromagnetic radiation travel at the speed of light in a vacuum.
 The relation between <font color="#ffff00">wavelength, frequency and light speed</font> is pretty straight forward as:
 $\lambda \nu = c$ Where $\lambda$ is the <font color="#ffff00">wavelength</font> in <font color="#00b0f0">meters</font>, while $\nu$ is the <font color="#ffff00">frequency</font> in <font color="#00b0f0">hertz</font>.
 
-<font color="#00b0f0">Electromagnetic waves</font> have different wavelength which is what differentiates one from another, refer to the following image:![a](assets/ElectromagneticSpectrum.png)
+<font color="#00b0f0">Electromagnetic waves</font> have different wavelength which is what differentiates one from another, refer to the following image:![a](../assets/ElectromagneticSpectrum.png)
 
 
 At the end of the nineteenth century, the idea of matter and energy being different was a thing, where they thought matter consisted of particles and energy in the form of electromagnetic radiation as a wave, they were described as massless and detached, while particles were described as things that had mass and position in space could be specified.
@@ -70,7 +70,7 @@ This is an interesting part, because when a photon or a beam of light, as mentio
 
 The emissions have a certain wavelength and aren't always the same, and nor are they in an enclosed interval therefore only making a line that represents the wavelength of the emitted light from the electron, this is called a line spectrum, this indicates that only certain energies are allowed for the electron in a hydrogen atom, it completely validates Planck's hypotheses in the last section.
 
-![](emissions.png)
+![e](../assets/emissions.png)
 
 In classical physics, it's said that a charged particle (For example, the electron) under acceleration should radiate energy, since an electron revolving around the nucleus constantly changes its direction, it is constantly accelerating, therefore it radiates energy in the form of light and loses energy, therefore being attracted to the nucleus.
 
@@ -84,13 +84,13 @@ m<sub>s</sub> which is the magnetic spin quantum number, is the direction of the
 
 Each orbital has a shape, which is clearly represented by a probability distribution because electrons aren't always in that place, other than they're also instantaneous, you can never find the current position of an orbiting electron. The s sublevel for example is spherical, but as you increase the energy level, you get a higher amount of something called nodes which is generally how big the next energy level is, number of nodes is energy level number - 1.
 
-An orbital in 2p looks like two irregular peas squished into eachother. ![](porbital.png)
+An orbital in 2p looks like two irregular peas squished into eachother. ![p](../assets/porbital.png)
 
-Meanwhile the 3p orbital adds another node to those, so they look like a sound wave (Sort of)![](3porbital.png)
+Meanwhile the 3p orbital adds another node to those, so they look like a sound wave (Sort of)![3](../assets/3porbital.png)
 
 3d looks like four beans attached to eachother, dz^2 looks weird like a wormhole.
 
-![](3d.png)
+![3](../assets/3d.png)
 
 > [!abstract] 
 >  ## Valence numbers 
@@ -106,7 +106,7 @@ An element called a spectrophotometer is an instrument the measures the amount o
 >  # Flame tests
 
 Flame tests are generally an easy concept because you take whatever compound/element you want and burn it to see the abundancy percentage or see a wavelength or emission speed or whatever, each metal burns with a specific color, for example strontium's burning color is bright red, called strontium red.
-This happens because the heat of the flame excites the electrons of the metals causing them to emit visible light.![](Metal-flame-test-colours-2024.webp)
+This happens because the heat of the flame excites the electrons of the metals causing them to emit visible light.![flame tests](../assets/Metal-flame-test-colours-2024.webp)
 
 To finish off:
 # The excited state of the atom.
