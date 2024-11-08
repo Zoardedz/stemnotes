@@ -6,15 +6,15 @@ The entirety of this Learning Outcome talks about electromagnetic radiation, wav
 
 Electromagnetic radiation is one of the ways that radiation transmits energy in space, for example like the light from the sun, <span style="font-family:default; font-size:default; color:orange">X-Rays, radio-waves, microwaves and even the heat from a fireplace</span> is due to <span style="font-family:default; font-size:default; color:orange">electromagnetic radiation</span>. Scientists have noticed that they have some wave behavior, and travel at the same speed <span style="font-family:default; font-size:default; color:red; font-style:italic">(light speed (3x10<sup>8</sup> or 2.9979x10<sup>8</sup>)</span>) through a ====vacuum====.
 
-Waves have three primary characteristics that are used to describe and represent the wave, <span style="font-family:default; font-size:default; color:yellow">wavelength, frequency and speed</span>. <span style="font-family:default; font-size:default; color:yellow">Wavelength</span> (*symbolized by the lowercase Greek letter lambda $\lambda$*) is the distance between two crests or troughs in the mechanical wave.
+Waves have three primary characteristics that are used to describe and represent the wave, <span style="font-family:default; font-size:default; color:yellow">wavelength, frequency and speed</span>. <span style="font-family:default; font-size:default; color:yellow">Wavelength</span> (*symbolized by the lowercase Greek letter lambda $'\lambda'$*) is the distance between two crests or troughs in the mechanical wave.
 
-<span style="font-family:default; font-size:default; color:yellow">The frequency</span> (*symbolized by the lowercase Greek letter nu $\nu$*) is the amount of cycles completed in a unit time (Seconds, and usually the <font color="#ffff00">frequency</font> itself is measured in Hertz (Hz)) and can be measured with s<sup>-1</sup> (s meaning the periodic time which is the time taken to finish one cycle) (<em>14 s<sup>-1</sup></em>).
+<span style="font-family:default; font-size:default; color:yellow">The frequency</span> (*symbolized by the lowercase Greek letter nu $'\nu'$*) is the amount of cycles completed in a unit time (Seconds, and usually the <font color="#ffff00">frequency</font> itself is measured in Hertz (Hz)) and can be measured with s<sup>-1</sup> (s meaning the periodic time which is the time taken to finish one cycle) (<em>14 s<sup>-1</sup></em>).
 
 From the last <font color="#ff0000">two observations</font> we can deduce that <font color="#ffff00">frequency and wavelength </font>are <font color="#ff0000">inversely</font> proportional, as the distance between two crests and troughs increases, the<font color="#ffff00"> frequency </font>decreases. Meanwhile as the<font color="#ffff00"> frequency</font> increases this means that the <font color="#ffff00">wavelength</font> is relatively little because all waves are close to eachother.
 All types of electromagnetic radiation travel at the speed of light in a vacuum.
 
 The relation between <font color="#ffff00">wavelength, frequency and light speed</font> is pretty straight forward as:
-$\lambda \nu = c$ Where $\lambda$ is the <font color="#ffff00">wavelength</font> in <font color="#00b0f0">meters</font>, while $\nu$ is the <font color="#ffff00">frequency</font> in <font color="#00b0f0">hertz</font>.
+$'\lambda \nu = c'$ Where $'\lambda'$ is the <font color="#ffff00">wavelength</font> in <font color="#00b0f0">meters</font>, while $'\nu'$ is the <font color="#ffff00">frequency</font> in <font color="#00b0f0">hertz</font>.
 
 <font color="#00b0f0">Electromagnetic waves</font> have different wavelength which is what differentiates one from another, refer to the following image:![a](../assets/ElectromagneticSpectrum.png)
 
@@ -23,45 +23,45 @@ At the end of the nineteenth century, the idea of matter and energy being differ
 
 The German physicist Max Planck in 1900 came in and fixed this through certain experiments. He studied the radiation emitted by solid bodies heated to a bright light. Planck found that the results could not be explained by physics of his day, which stated that matter could absorb or emit any quantity of energy. 
 
-Planck was accredited for those observations only by postulating that energy can be gained or lost in whole number multiples of the quantity $h\nu$ where $h$ is a constant called Planck's constant which from the experiment was determined to have a value of $6.626$x$10$<sup>-34</sup> $J \cdot S$ Where J is Joules and S is seconds. 
+Planck was accredited for those observations only by postulating that energy can be gained or lost in whole number multiples of the quantity $'h\nu'$ where $h$ is a constant called Planck's constant which from the experiment was determined to have a value of $'6.626'$x$'10'$<sup>-34</sup> $'J \cdot S'$ Where J is Joules and S is seconds. 
 
-The change of energy in a system, $\Delta$E can be represented by the equation:
-$\Delta$E = $nh\nu$ where $n$ is an integer, $h$ is Planck's constant, $\nu$ is the frequency of the electromagnetic radiation absorbed or emitted, $n$ is the number of photons or at other times, $n$ is the energy level count (incase of electrons).
+The change of energy in a system, $'\Delta'$E can be represented by the equation:
+$'\Delta'$E = $'nh\nu'$ where $'n'$ is an integer, $'h'$ is Planck's constant, $'\nu'$ is the frequency of the electromagnetic radiation absorbed or emitted, $n$ is the number of photons or at other times, $n$ is the energy level count (incase of electrons).
 
 The following development was that in the context of atomic structure, Einstein proposed that electromagnetic radiation is quantized (consists of photons).
 
 Einstein suggested that electromagnetic radiation could be viewed as a stream of "particles" (which were later derived to be waves, although they can have both properties (Refer to the Quantum Theory)) called photons. The energy of each photon is given by the expression:
-$E$<sub>photon</sub> = $h\nu$ = $\dfrac{hc}{\lambda}$  Where, yet again $h$ is Planck's constant, $\nu$ is the frequency of the radiation and $\lambda$ is the wavelength of the radiation.
+$E$<sub>photon</sub> = $'h\nu'$ = $'\dfrac{hc}{\lambda}'$  Where, yet again $'h'$ is Planck's constant, $'\nu'$ is the frequency of the radiation and $'\lambda'$ is the wavelength of the radiation.
 
 
 > [!abstract] 
 >  # **Photoelectric effect**
 
-Einstein reached the $E$<sub>photon</sub> conclusion through his analysis of the photoelectric effect (he won a Nobel prize for this), the photoelectric effect points to the phenomenon in which electrons are emitted from the surface of a metal when light strikes it, The following observations characterize the photoelectric effect:
-1. Experiments where they tried difference frequencies of light showed that no electrons are emitted by the metal if the frequency is below a threshold frequency $\nu$<sub>0</sub> 
+Einstein reached the $'E'$<sub>photon</sub> conclusion through his analysis of the photoelectric effect (he won a Nobel prize for this), the photoelectric effect points to the phenomenon in which electrons are emitted from the surface of a metal when light strikes it, The following observations characterize the photoelectric effect:
+1. Experiments where they tried difference frequencies of light showed that no electrons are emitted by the metal if the frequency is below a threshold frequency $'\nu'$<sub>0</sub> 
 2. The light below this threshold frequency emits no electrons regardless the intensity of the light or increasing of photons.
 3. For light with frequency higher than or equal to the threshold frequency, the number of electrons emitted increases with the intensity of the light.
 4. For light with frequency higher than or equal to the threshold frequency, the kinetic energy of the emitted electrons increases linearly (in a straight line in a graph) with the frequency of light.
 These observations can be explained by assuming that electromagnetic radiation is quantized (consists of photons), and that the threshold frequency represents the minimum energy required to remove the electron from the metal's surface.
 
-Minimum energy required to remove an electron would be: $E$<sub>0</sub> = $h\nu$<sub>0</sub> 
-Because a photon with energy less than $E$<sub>0</sub> cannot remove an electron, light with a frequency less than the threshold frequency produces no electrons, meanwhile if it has a higher frequency (Therefore more energy) it gives the excess energy to the electron in the form of Kinetic Energy.
+Minimum energy required to remove an electron would be: $'E'$<sub>0</sub> = $'h\nu'$<sub>0</sub> 
+Because a photon with energy less than $'E'$<sub>0</sub> cannot remove an electron, light with a frequency less than the threshold frequency produces no electrons, meanwhile if it has a higher frequency (Therefore more energy) it gives the excess energy to the electron in the form of Kinetic Energy.
 
-$KE$<sub>electron</sub> = $\dfrac{1}{2}mv^2$ = $h\nu$ - $h\nu_0$ where $m$ is the mass of the electron ($9.11 * 10^{-31}kg$), $v$ is the velocity of the electron, $h\nu$ is the energy of the incident photon and $h\nu_0$ is the energy required to remove an electron, this is because the intensity of light is a measure of the number of photons present in a given part of the beam, a greater intensity means more photons are available to release more electrons (as stated, as long $\nu$ > $\nu_0$).
+$'KE'$<sub>electron</sub> = $'\dfrac{1}{2}mv^2'$ = $'h\nu'$ - $'h\nu_0'$ where $'m'$ is the mass of the electron ($'9.11 * 10^{-31}kg'$), $'v'$ is the velocity of the electron, $'h\nu'$ is the energy of the incident photon and $'h\nu_0'$ is the energy required to remove an electron, this is because the intensity of light is a measure of the number of photons present in a given part of the beam, a greater intensity means more photons are available to release more electrons (as stated, as long $'\nu'$ > $'\nu_0'$).
 
 In another development, Einstein derived the famous equation
-$E = mc^2$
+$'E = mc^2'$
 The main significance that this equation has is that any energy has mass, from the way he derived the formula we can manipulate it:
-$m = \dfrac{E}{c^2}$ where c is still speed of light, m is mass and E is energy.
+$'m = \dfrac{E}{c^2}'$ where c is still speed of light, m is mass and E is energy.
 Using that form of the equation, we can calculate the mass associated with a quantity of energy, for example: we can calculate the apparent mass of photons (قال يعني). For calculating $E_{photon}$ with wavelength and no frequency then you'll get $E_{photon} = \dfrac{hc}{\lambda}$ 
-Substituting this in $m = \dfrac{E}{c^2}$ you get: $m = \dfrac{hc/\lambda}{c^2} = \dfrac{h}{c\lambda}$.
+Substituting this in $'m = \dfrac{E}{c^2}'$ you get: $'m = \dfrac{hc/\lambda}{c^2} = \dfrac{h}{c\lambda}'$.
 
 Physicist Arthur Compton performed experiments involving collisions of X-rays and electrons, that showed that photons do have the mass resulting from the previous equation.
 
 To summarize what Einstein and Planck concluded, they said that energy is quantized, it can only happen in specific units called quanta, they also concluded that ERs show characteristics of particle matter as well, this phenomenon is called the duality of light. (dual nature of light).
 
 But is the vice versa of the previous true? Does a particulate matter have wavelike properties? French physicist Louis de Broglie asked that same question to himself, he answered the question by remembering the relationship between wavelength and mass.
-Where $m = \dfrac{h}{v\lambda}$ turns into $\lambda = \dfrac{h}{mv}$ which allows us to calculate the wavelength for a particle. He in fact did find that any particle also has wavelength.
+Where $'m = \dfrac{h}{v\lambda}'$ turns into $'\lambda = \dfrac{h}{mv}'$ which allows us to calculate the wavelength for a particle. He in fact did find that any particle also has wavelength.
 
  >[!abstract] 
 ># The atomic spectrum of elements otherwise known as the emission spectrum of elements. 
