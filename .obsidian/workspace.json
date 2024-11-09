@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/LO1 and LO2.md",
+                "file": "Math/Generals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LO1 and LO2"
+              "title": "Generals"
             }
           }
         ]
@@ -94,10 +94,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/LO1 and LO2.md"
+                "file": "Math/Generals.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of LO1 and LO2"
+              "title": "Outline of Generals"
             }
           },
           {
@@ -125,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/LO1 and LO2.md",
+                "file": "Math/Generals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from LO1 and LO2"
+              "title": "Outgoing links from Generals"
             }
           },
           {
@@ -199,23 +199,24 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "2230a29c817a7222",
+  "active": "a39c9cd066788de0",
   "lastOpenFiles": [
+    "Pasted image 20241108235315.png",
+    "Math/Generals.md",
+    "assets/trigfuncs.png",
+    "assets/evilquestion.png",
+    "Physics/LO1 and LO2.md",
     "Chemistry/LO4.md",
     "Chemistry/LO3.md",
     "Biology/LO2.md",
     "assets/thirdporbital.png",
     "assets/threed.png",
-    "Physics/LO1 and LO2.md",
     "assets/standard_base.png",
     "assets/standards_in_countries.png",
     "assets/er.png",
     "assets/cellmembrane.png",
     "assets/lysosomes2.png",
-    "assets/DNA.png",
-    "assets/prokaryote.png",
     "Math",
-    "assets/Errors.png",
     "Physics",
     "Pasted.md",
     "().md",
