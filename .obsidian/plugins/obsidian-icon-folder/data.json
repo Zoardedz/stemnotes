@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAperture",
       "LiAxis3d",
       "LiArrowLeftRight",
       "LiMove3d",
-      "LiTableRowsSplit",
-      "LiTableCellsMerge"
+      "LiTableRowsSplit"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,6 @@
   "Chemistry/LO4.md": "LiTableRowsSplit",
   "Physics": "LiMove3d",
   "Physics/LO1 and LO2.md": "LiArrowLeftRight",
-  "Math": "LiAxis3d"
+  "Math": "LiAxis3d",
+  "Chemistry/Types of bonds.md": "LiAperture"
 }
