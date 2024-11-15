@@ -77,3 +77,13 @@ $X_1\approx 8.2$ while $X_2 \approx -9.9$ , since there's only one positive answ
 Fun fact: $b^2-4ac > 0$ means that we have 2 solutions, if $b^2-4ac = 0$ then we have only one solution, if $b^2 -4ac < 0$ then we have no solutions.
 
 If the equation has one solution, the formula is reduced to $X = \dfrac{-b}{2a}$ 
+
+# Heron's formula
+
+Heron's formula found that for any triangle, if we have the three sides and no angles, we can get it's area or the radius of the inscribed circle.
+
+Heron's formula requires the perimeter and the measure of each side or at least the ratio between each side (you may write a=3x).
+
+It states that: $\sqrt{S(S-A)(S-B)(S-C)}$  = The area of the triangle, where S is the semiperimeter (the half of the perimeter).
+
+We can also use this to find the radius of a circle inscribed inside of a triangle, given its perimeter and area, we can get the semiperimeter and area therefore the radius will be equal to: Area/Semiperimeter = r

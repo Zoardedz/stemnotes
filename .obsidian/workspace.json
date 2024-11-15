@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Types of bonds.md",
+                "file": "Math/Generals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Types of bonds"
+              "title": "Generals"
             }
           }
         ]
@@ -199,10 +199,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "2230a29c817a7222",
+  "active": "a39c9cd066788de0",
   "lastOpenFiles": [
-    "Chemistry/LO3.md",
     "Chemistry/Types of bonds.md",
+    "Chemistry/LO3.md",
     "Math/Generals.md",
     "Pasted image 20241108235315.png",
     "assets/trigfuncs.png",
