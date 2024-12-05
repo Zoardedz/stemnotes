@@ -11,14 +11,17 @@
             "id": "a39c9cd066788de0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Math/Generals.md",
-                "mode": "source",
-                "source": false
+                "file": "Biology/Untitled.canvas",
+                "viewState": {
+                  "x": -476.94487693677183,
+                  "y": 61.21879169029924,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Generals"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -77,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "right": {
     "id": "67518437dc913653",
@@ -125,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Generals.md",
+                "file": "Biology/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Generals"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -199,24 +201,28 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "a39c9cd066788de0",
+  "active": "2230a29c817a7222",
   "lastOpenFiles": [
-    "Chemistry/Types of bonds.md",
+    "Physics/LO3.md",
+    "Biology/Untitled.canvas",
+    "Chemistry/LO6.md",
+    "Physics/LO1 and LO2.md",
     "Chemistry/LO3.md",
+    "Chemistry/LO4.md",
+    "Chemistry/Types of bonds.md",
+    "assets/Radioactivedecayseries.png",
+    "assets/Reactiontypes.png",
+    "Chemistry/LO5.md",
+    "assets/Isomer_flowchart.png",
+    "assets/Formula.png",
+    "assets/FormulaeInOrganicChem.png",
+    "assets/energytendency.png",
     "Math/Generals.md",
     "Pasted image 20241108235315.png",
     "assets/trigfuncs.png",
     "assets/evilquestion.png",
-    "Physics/LO1 and LO2.md",
-    "Chemistry/LO4.md",
     "Biology/LO2.md",
     "assets/thirdporbital.png",
-    "assets/threed.png",
-    "assets/standard_base.png",
-    "assets/standards_in_countries.png",
-    "assets/er.png",
-    "assets/cellmembrane.png",
-    "assets/lysosomes2.png",
     "Math",
     "Physics",
     "Pasted.md",
