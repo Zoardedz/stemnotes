@@ -17,6 +17,8 @@ Angular speed or velocity is measured in revolutions per minute as a standard.
 
 To convert from the angular velocity unit into regular linear velocity, multiply the angular velocity by multiplying the angular velocity by $\dfrac{2\pi r}{60}$ if the angular velocity unit is in rpm (revolutions per minute).
 
+The linear velocity (Tangential velocity) should be equal to the radius into the angular velocity in all cases.
+
 In a circular path, if for example the object is held by a string, then the tension force is equal to the centripetal force, both in magnitude and direction.
 
 Therefore, when doing exercises, if the object is at the horizontal position, then the tension force = the centripetal force = $\dfrac{mv^2}{r}$. When the object is at the vertical position but it's at south then the tension force equals: $\dfrac{mv^2}{r}+mg$ due to the effect of gravity, when it's at north then the tension force equals: $\dfrac{mv^2}{r}-mg$. When the object is moving very fast in an ellipse, the tension force approximately equals the centripetal force (not directly equal), if it's slow, then the tension force is gotten through its components. 

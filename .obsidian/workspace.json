@@ -11,17 +11,14 @@
             "id": "a39c9cd066788de0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Biology/Untitled.canvas",
-                "viewState": {
-                  "x": -476.94487693677183,
-                  "y": 61.21879169029924,
-                  "zoom": 0
-                }
+                "file": "Biology/Diabetes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Diabetes"
             }
           }
         ]
@@ -80,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "right": {
     "id": "67518437dc913653",
@@ -201,8 +199,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "2230a29c817a7222",
+  "active": "a39c9cd066788de0",
   "lastOpenFiles": [
+    "Biology/LO2.md",
+    "Biology/Diabetes.md",
     "Physics/LO3.md",
     "Biology/Untitled.canvas",
     "Chemistry/LO6.md",
@@ -221,7 +221,6 @@
     "Pasted image 20241108235315.png",
     "assets/trigfuncs.png",
     "assets/evilquestion.png",
-    "Biology/LO2.md",
     "assets/thirdporbital.png",
     "Math",
     "Physics",

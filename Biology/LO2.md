@@ -69,13 +69,15 @@ Glycoproteins mainly are used as a defensive mechanism and also allow cells to i
 
 Glycolipids' roles are to mainly contain cell membrane stability and facilitate cellular recognition.
 
-Integral membrane proteins include transporters, linkers, channels, receptors and enzymes. They're mainly used for transporting materials in and out the cell, they interact with the hydrophobic part of the membrane (The tail).
+Polysaccharides are a structure bound to glycoproteins and glycolipids which facilitate the ability of extracellular communication.
+
+Integral membrane proteins include transporters, linkers, channels, receptors and enzymes. They're mainly used for transporting materials in and out the cell, they interact with the hydrophobic part of the membrane (The tail), they're a tertiary structure (3D) and Amphipathic.
 
 Peripheral membrane proteins are more concerned with regulating and anchoring other membrane components or processes at the membrane surface (Despite being loosely attached to the hydrophilic side)
 
 Cholesterol mainly controls the fluidity of the cell membrane and cell shape.
 
-The phospholipid bilayer consists of a head and tail, the head is hydrophilic meanwhile the tails are fatty acids who are hydrophobic.
+The phospholipid bilayer consists of a head and tail, the head is hydrophilic meanwhile the tails are fatty acids who are hydrophobic, the double bonds in the hydrophobic tails form kinks in the fatty acid tails preventing the adjacent lipids from packing tightly under the circumstance of being in a low temperature environment to preserve fluidity.
 
 The endomembrane system (EMS) is what majorly differentiates between Eukaryotes and Prokaryotes, as Eukaryotes do have an EMS meanwhile Prokaryotes don’t. The EMS consists of many parts, such as the Golgi apparatus, Lysosomes and Secretory Vesicles, most importantly the
 Endoplasmic reticulum (ER) which is split into two types (rough
@@ -257,6 +259,8 @@ A large central vacuole for food and everything exists in plant cells, meanwhile
 As known, plant cells have a certain shape due to the cell wall and animal cells have an irregular shape, their sizes respectively are around 10-100 micrometers and 10-30 micrometers, only animal cells have something such as cilia or flagella, plants also lack cholesterol in cell membranes.
 
 Plant cells also store excess glucose or sugar as starch, while animal cells store glucose as glycogen in the liver (using the glucagon hormone from the pancreas.).
+
+# Tuberculosis
 
 Tuberculosis, also known as the "white plague" or historically known as consumption is an infectious disease which is caused by the Mycobacterium tuberculosis (Koch's Bacillus) bacteria. It generally affects the lungs and digs cavities inside it, it also can affect other parts of the body.
 
