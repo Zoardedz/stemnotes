@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDna",
       "↗",
       "LiAtom",
       "🥬",
-      "🪴",
-      "LiAperture"
+      "🪴"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,5 +44,6 @@
   "Chemistry/Types of bonds.md": "LiAperture",
   "Chemistry/LO5.md": "🥬",
   "Chemistry/LO6.md": "LiAtom",
-  "Physics/LO3.md": "↗"
+  "Physics/LO3.md": "↗",
+  "Biology/LO4.md": "LiDna"
 }
