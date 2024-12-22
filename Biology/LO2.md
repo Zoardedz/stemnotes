@@ -69,15 +69,21 @@ Glycoproteins mainly are used as a defensive mechanism and also allow cells to i
 
 Glycolipids' roles are to mainly contain cell membrane stability and facilitate cellular recognition.
 
-Polysaccharides are a structure bound to glycoproteins and glycolipids which facilitate the ability of extracellular communication.
+Polysaccharides/Oligosaccharides are a structure bound to glycoproteins and glycolipids which facilitate the ability of extracellular communication.
 
-Integral membrane proteins include transporters, linkers, channels, receptors and enzymes. They're mainly used for transporting materials in and out the cell, they interact with the hydrophobic part of the membrane (The tail), they're a tertiary structure (3D) and Amphipathic.
+***Integral membrane proteins include transporters, linkers, channels, receptors and enzymes. They're mainly used for transporting materials in and out the cell, they interact with the hydrophobic part of the membrane (The tail), they're a tertiary structure (3D) and Amphipathic.***
 
-Peripheral membrane proteins are more concerned with regulating and anchoring other membrane components or processes at the membrane surface (Despite being loosely attached to the hydrophilic side)
+Peripheral membrane proteins are more concerned with regulating and anchoring other membrane components or processes at the membrane surface (Despite being loosely attached to the hydrophilic side) and it can help to respond to the signals from other cells.
 
 Cholesterol mainly controls the fluidity of the cell membrane and cell shape.
 
-The phospholipid bilayer consists of a head and tail, the head is hydrophilic meanwhile the tails are fatty acids who are hydrophobic, the double bonds in the hydrophobic tails form kinks in the fatty acid tails preventing the adjacent lipids from packing tightly under the circumstance of being in a low temperature environment to preserve fluidity.
+The phospholipid bilayer consists of a head and tail, the head is hydrophilic meanwhile the tails are fatty acids who are hydrophobic, ***the double bonds in the hydrophobic tails form kinks in the fatty acid tails preventing the adjacent lipids from packing tightly under the circumstance of being in a low temperature environment to preserve fluidity.***
+
+(Under a freezing point, they tend to fracture along the hydrophobic interaction belt)
+
+The first people who said it was a phospholipid bilayer were: E. Gorter and F. Grendel. The guys who stated there was a phospholipid bilayer with two layers of hydrophilic proteins were H. Davson and J. Danielli. 
+
+It's now known that the fluid mosaic model has a much higher concentration of protein molecules than it was known before.
 
 The endomembrane system (EMS) is what majorly differentiates between Eukaryotes and Prokaryotes, as Eukaryotes do have an EMS meanwhile Prokaryotes don’t. The EMS consists of many parts, such as the Golgi apparatus, Lysosomes and Secretory Vesicles, most importantly the
 Endoplasmic reticulum (ER) which is split into two types (rough

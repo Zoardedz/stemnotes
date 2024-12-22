@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiMoveDown",
       "LiRecycle",
       "LiDot",
       "LiDna",
-      "↗",
-      "LiAtom"
+      "↗"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,5 +47,6 @@
   "Physics/LO3.md": "↗",
   "Biology/LO4.md": "LiDna",
   "Biology/LO5.md": "LiDot",
-  "Biology/LO6.md": "LiRecycle"
+  "Biology/LO6.md": "LiRecycle",
+  "Physics/LO4.md": "LiMoveDown"
 }
