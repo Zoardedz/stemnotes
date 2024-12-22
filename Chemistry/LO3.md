@@ -63,6 +63,14 @@ To summarize what Einstein and Planck concluded, they said that energy is quanti
 But is the vice versa of the previous true? Does a particulate matter have wavelike properties? French physicist Louis de Broglie asked that same question to himself, he answered the question by remembering the relationship between wavelength and mass.
 Where $m = \dfrac{h}{v\lambda}$ turns into $\lambda = \dfrac{h}{mv}$ which allows us to calculate the wavelength for a particle. He in fact did find that any particle also has wavelength.
 
+>[!abstract] 
+># Energy emission of Hydrogen
+
+Bohr had derived an energy emission equation from hydrogen that ONLY works for mono electron systems for the sole reason that it considers the interactions between one electron and the nucleus.
+$E=-2.178*10^{-18}J(\dfrac{Z^2}{n^2})$  where Z is the nuclear charge (1 in a mono electron system) and n is an integer indicating the energy level where the larger the number, the larger the orbit radius, J is Joules. The negative sign in this equation indicates that this energy is lower than it would be if the electron were at an infinite distance from the nucleus (n=infinity). 
+The change of energy is dependent on the before state and after state, where:
+	$\Delta E=E_{Post}-E_{Pre}$ where $E_{Post} = -2.178*10^{-18}(\dfrac{1^2}{n_{Post}^2})$ $E_{Pre} = -2.178*10^{-18}(\dfrac{1^2}{n_{Pre}^2})$, therefore, $\Delta E=-2.178*10^-18J(\dfrac{1}{n_{post}^{2}}-\dfrac{1}{n_{pre}^2})$, if the final n is infinity, then the energy required to remove the electron directly is $-2.178*10^{-18}J$ 
+
  >[!abstract] 
 ># The atomic spectrum of elements otherwise known as the emission spectrum of elements. 
 
@@ -92,6 +100,13 @@ Meanwhile the 3p orbital adds another node to those, so they look like a sound w
 
 ![](threed.png)
 
+
+# Some restrictions relating to the quantum numbers
+
+**Pauli's exclusion principle:** which states that no two electrons can have the same four quantum numbers $n, l, ml, ms$.
+**Hund's rule:** Orbitals may have identical energy levels when they're of the same principal shell. These orbitals are called degenerate, or "equal energy". Electrons fill orbitals one at a time, one up and one down.
+**Heisenberg's uncertainty principle:** We cannot precisely measure the momentum and position of an electron at the same time. As the momentum is more and more certain, the position becomes less certain and vice versa. This is why $n$ belongs to $Z$. If there were partial waves, they wouldn't work well with complete waves as they'd cancel eachother out.
+
 > [!abstract] 
 >  ## Valence numbers 
 
@@ -100,7 +115,7 @@ Valence numbers are the electrons gained or lost in a chemical reaction, differe
 > [!abstract] 
 > # Absorption of photons
 
-An element called a spectrophotometer is an instrument the measures the amount of photons absorbed by an electron, it's exactly when a photon or two with a certain frequency to change the energy state of the atom from ground state to a higher state, the inverse happens in emissions, emissions cause the electron to decrease in energy levels.
+An element called a spectrophotometer is an instrument that measures the amount of photons absorbed by an electron, it's exactly when a photon or two with a certain frequency to change the energy state of the atom from ground state to a higher state, the inverse happens in emissions, emissions cause the electron to decrease in energy levels.
 
 > [!abstract] 
 >  # Flame tests

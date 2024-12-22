@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"b39bbc2a6e80ef3b","type":"text","text":"animal cells, plant cells, malaria, sickle cell, dna and bacteria","x":-500,"y":-540,"width":250,"height":272},
-		{"id":"014c7254355e95b0","type":"text","text":"","x":-540,"y":-40,"width":250,"height":50}
-	],
-	"edges":[
-		{"id":"04343be9f28631bc","fromNode":"b39bbc2a6e80ef3b","fromSide":"bottom","toNode":"014c7254355e95b0","toSide":"top"}
-	]
-}

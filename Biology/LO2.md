@@ -56,7 +56,7 @@ glycolipids and glycoproteins and exclusively in animal cells, cholesterol; acti
 a regulator of fluidity.
 Then you have the two phospholipid layers that are made of two heads and
 connected with fatty acid tails, the two heads are hydrophilic and the tails are
-hydrophobic (due to the tails being made of fatty acids.)
+hydrophobic (due to the tails being made of fatty acids.). The membrane is stabilized due to the hydrophobic reactions occuring.
 Proteins are the second most abundant element, they serve as channels to
 manage materials in or out the cell.
 And you have carbohydrates bound from the outside, either with a lipid forming
@@ -246,7 +246,7 @@ There are 3 types of fibers that make up the cytoskeleton, Microtubules are the 
 ![](../assets/cytoskeleton.png)
 
 
-To compare between animal cells and plant cells we can say that animal cells use ATP for energy, they get provided ATP from the mitochondria, as its not photosynthetic and doesn't have chloroplast.
+To compare between animal cells and plant cells we can say that animal cells use ATP for energy (fun fact, ATP has an activator attached which is Mg++), they get provided ATP from the mitochondria, as its not photosynthetic and doesn't have chloroplast.
 Meanwhile the plant cell has the chloroplast AND mitochondria to provide energy to the cell through sugar compounds, it has chloroplast to make its own food and mitochondria for regular plant breathing.
 
 Animal cells communicate with neighboring cells through cell junctions and glycoproteins & glycolipids, meanwhile plant cells have a cell wall which unfortunately breaks contact,, BUTTT they have something called plasmodesmata that pass through the connecting cell walls.
