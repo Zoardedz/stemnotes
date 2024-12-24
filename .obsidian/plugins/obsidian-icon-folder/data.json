@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiRotate3d",
       "LiMoveDown",
       "LiRecycle",
       "LiDot",
-      "LiDna",
-      "↗"
+      "LiDna"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,7 +35,6 @@
   },
   "Biology": "LiBiohazard",
   "Chemistry": "⚛",
-  "Biology/LO2.md": "LiTableCellsMerge",
   "Chemistry/LO3.md": "LiAudioWaveform",
   "Chemistry/LO4.md": "LiTableRowsSplit",
   "Physics": "LiMove3d",
@@ -48,5 +47,7 @@
   "Biology/LO4.md": "LiDna",
   "Biology/LO5.md": "LiDot",
   "Biology/LO6.md": "LiRecycle",
-  "Physics/LO4.md": "LiMoveDown"
+  "Physics/LO4.md": "LiMoveDown",
+  "Biology/LO2 & 3.md": "LiTableCellsMerge",
+  "Physics/LO5.md": "LiRotate3d"
 }
