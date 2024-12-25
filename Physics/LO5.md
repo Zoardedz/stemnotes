@@ -6,7 +6,9 @@ In general, it's the point where the masses balance and can be hung without slid
 
 The stability of an object is determined by the net forces affecting it, net torques and the center of the mass' displacement.
 
-The center of gravity of an object is different from the center of mass, where it's the weight of the objects. The center of mass tends to be closer to larger objects.
+The center of gravity of an object is different from the center of mass, where it's the weight of the objects. The center of mass tends to be closer to larger objects. When the center of gravity doesn't coincide with the point of stability, the object falls over and when the center of gravity is nearest to the platform being walked on (or down), this provides more stability for the object itself.
+
+The center of gravity relatively derives from the same law as the center of mass, where: $\dfrac{\Sigma M_igX_i}{\Sigma M_ig}$ where g is the gravity acceleration, Mi is the mass of the object and Xi is the distance from a certain point.
 
 # Torque
 
@@ -39,7 +41,7 @@ The six simple machines are levers, inclined planes (Although, not a machine, ha
 
 Let's talk a little about levers, you have different classes of levers, for example, the first class of levers which is referred to as the seesaw usually, has torques at each distance equal to eachother if it's only being affected by one side, therefore: $\tau_1 = \tau_2$ OR $F_1r_1=F_2r_2$., this rule is generally derived as the lever's law which states that: $F_1d_1=F_2d_2$ where F1 is the force on a side of the seesaw and d is the distance of the force's acting point to the fulcrum, same thing with the other d except F is on the other side of the seesaw.
 
-The ideal mechanical advantage resulting from the machine is determined by the following rule: $\dfrac{F_{out}}{F_{in}} = \dfrac{d_{in}}{d_{out}}$, for a first class lever, this must be more than 1 or less than 1, for a third class lever, this must be less than 1.
+The ideal mechanical advantage resulting from the machine is determined by the following rule: $\dfrac{F_{out}}{F_{in}} = \dfrac{d_{in}}{d_{out}}$, for a first class lever, this must be more than 1 or less than 1, for a third class lever, this must be less than 1 in which case it depends on the force acting on the lever.
 
 In an ideal state, the larger force is directly associated to the smaller distance from the center of rotation and the smaller force is directly associated to the larger distance from said center of rotation.
 
@@ -49,4 +51,4 @@ The efficiency of a machine should be calculated by: $\dfrac{W_{out}}{W_{in}}$  
 
 The mechanical advantage in an inclined plane is determined by the length of the plane divided by the height.
 
-The mechanical advantage of pulleys equals to the number of ropes in the pulleys.
+The mechanical advantage of pulleys equals to the number of ropes in the pulleys, in an Atwood's machine, an object is hung by a rope, to calculate the distance and the movement that the object performs you can use the following relation: $\dfrac{InputArm}{OutputArm}=\dfrac{OutputForce}{InputForce}$, in other words: Input arm * input force = output force * output arm. In an even better way: Force exerted on the rope * Distance pulled = Weight of object being pulled * Height raised.
