@@ -7,7 +7,7 @@ Centripetal, meaning that it is ***center attracted*** therefore, that's why its
 
 The velocity is in a constant, linear form in this state, how come that's true if there's something called centripetal acceleration?
 
-Well, you forgot didn't ya little guy? Vectors aren't equal unless they're equal in magnitude and equal in direction.
+Well, that's because angular and linear forms are different, this is angular acceleration which actually exists, in a linear form, the acceleration would be zero.
 Said centripetal acceleration's magnitude is given by: $a_c = \dfrac{v^2}{r}$. Note that this is only the magnitude of the acceleration, the direction is always directed towards the center.
 Angular velocity is the angle in radians divided by time.
 
@@ -21,7 +21,7 @@ The linear velocity (Tangential velocity) should be equal to the radius into the
 
 In a circular path, if for example the object is held by a string, then the tension force is equal to the centripetal force, both in magnitude and direction.
 
-Therefore, when doing exercises, if the object is at the horizontal position, then the tension force = the centripetal force = $\dfrac{mv^2}{r}$. When the object is at the vertical position but it's at south then the tension force equals: $\dfrac{mv^2}{r}+mg$ due to the effect of gravity, when it's at north then the tension force equals: $\dfrac{mv^2}{r}-mg$. When the object is moving very fast in an ellipse, the tension force approximately equals the centripetal force (not directly equal), if it's slow, then the tension force is gotten through its components. 
+Therefore, when doing exercises, if the object is at the horizontal position, then the tension force = the centripetal force = $\dfrac{mv^2}{r}$. When the object is at the vertical position but it's at south then the tension force equals: $\dfrac{mv^2}{r}+mg$ due to the effect of gravity, when it's at north then the tension force equals: $mg-\dfrac{mv^2}{r}$. When the object is moving very fast in an ellipse, the tension force approximately equals the centripetal force (not directly equal), if it's slow, then the tension force is gotten through its components. 
 
 Inertial frames of reference is when an object exhibits inertia, they remain at rest or in a uniform state of motion without a change in motion unless acted upon by external forces.
  
