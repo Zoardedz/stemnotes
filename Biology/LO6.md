@@ -37,7 +37,10 @@ Before the cell enters the G1 phase of the interphase, the cell goes through thi
 
 # The Enter S Checkpoint (Exit G1 Checkpoint)
 
-Before the cell commits to the S stage, the cell should check nutritional state of the cell and check the resources for DNA replication as well as the integrity of the DNA itself.
+Before the cell commits to the S stage, the cell should check nutritional state of the cell and check the resources for DNA replication as well as the integrity of the DNA itself. If this checkpoint fails, the cell undergoes the G0 nondividing state.
+
+Some cells are always in the G0 state like nerve cells, red blood cells and liver cells.
+Although liver cells are an exception and can be called back by external factors to go back in the cell cycle again.
 
 	In yeast, the cell checks its own size to see if it's ready to enter the S stage.
 
@@ -65,3 +68,23 @@ In the second part of mitosis which is cytokinesis is the formation of a cleavag
 ![](../assets/metaphasetocytokinesis.png)
 
 During cytokinesis, the cleavage furrow is a shallow groove in the cell surface near the old metaphase plate. On the cytoplasmic side of the furrow is a ring of actin microfilaments associated with molecules of the protein myosin. The actin microfilaments interact with the myosin molecules, causing the ring to contract. In plant cells, there is no cleavage furrow, instead during telophase, vesicles from the golgi apparatus move along microtubules to the middle of the cell where they condense and produce a cell plate until forming a complete cell wall. ![](../assets/cytokinesis.png)
+
+Some types of cells do mitosis in different ways like:
+1. Bacteria do binary fission.
+2. Dinoflagellates *unicellular eukaryotes* perform mitosis without getting rid of the nuclear envelope, the chromosomes attach to the nuclear envelope, microtubules from the spindles pass THROUGH the nuclear envelope inside cytoplasmic tunnels. (reinforcing the spatial orientation of the nucleus). Which then divides in a process similar to binary fission.
+3. Diatoms and some yeasts perform mitosis by having the spindle fibers form INSIDE the nucleus. 
+4. Normal Eukaryotes as we studied before.
+
+# Cell Cycle Control System (CCCS)
+
+Through various tests, scientists have found that the cell has a cell cycle ctrl system through coordination by things floating out and about in the cytoplasm, these tests founded a result that showed that when a cell was fusing with a cell to make one nucleus, say the other cell was in the S phase and one cell was in the G1 phase, then the G1 cell transfers to the S phase directly, same thing with a cell in G1 and M phases.
+
+The things in the cytoplasm that operate the CCCS are proteins called protein kinases and cyclins. Protein kinases are enzymes that activate or deactivate other proteins by *phosphorylating* them (attaching a phosphate group to them, thus activating them).
+
+The kinases that drive the cell cycle are present at a ***constant concentration*** in the growing cell, but mostly inactive. To be active, the KINASES must be attached to a CYCLIN. CYCLINS get their names from THEIR CYLCICALLY CHANGING CONCENTRATION. Therefore, these kinases are called "Cyclin-dependent kinases" or Cdks.
+
+The activity of a Cdk rises and falls according to the concentration of the CYCLINS which rises in S and G2 phases then falls during M phase. There is a Cdk complex called MPF which stands for maturation-promoting factor or M-phase-promoting factor.
+
+MPF directly acts as a kinase by initiating mitosis and phosphorylating proteins and indirectly by activating other kinases, it is also the main reason the nuclear lamina breaks down.
+
+During the anaphase, MPF turns itself off by performing something that causes its activating cyclin to be destroyed. ![](../assets/CCCS.png)

@@ -22,7 +22,7 @@ Do the same for the atomic number
 
 Let's take another example for an Iodine-125, if it reacts with an electron and produces no new massive particles, only a nuclide, what's the equation?
 Now, electrons have a negative charge, therefore they should be written as: $_{-1}^{0}e$ 
-The reaction: $_{53}^{125}I + _{-1}^{0}e -> _{52}^{125}Te$.
+The reaction: $_{53}^{125}I + _{-1}^{0}e \rightarrow _{52}^{125}Te$.
 Since we decrease one from the atomic number, we get a different element, as I had previously mentioned in LO4, an element is defined or known by its atomic number as it's the UUID for it.
 
 There are two types for nuclear reactions, nuclear decay reactions and nuclear transmutation reactions, in a nuclear decay reaction, the high energy high mass radioactive isotope is constantly trying to lose energy and mass so it emits subatomic particles constantly.
@@ -31,7 +31,7 @@ In contrary, the transmutation reactions or nuclear fusion reactions is when a n
 Fission reactions occur by a subatomic particle slamming into a large atom that excites it very much causing it to have energy such that it decomposes the energy and decays instantaneously.
 
 Some reactions undergo modes of decay mainly with particles or doing something that causes these particles to be emitted, described in the following image:
-![ReactionTypes](../assets/ReactionTypes.png)
+![](../assets/ReactionTypes.png)
 Add to the previous modes of decay, neutron capture which is when a neutron strikes an atom, a Uranium atom for example (a gigantic nuclide) and ***DOES NOT CAUSE A FUSION REACTION***, rather, it causes a spontaneous fission reaction.
 # Nuclear Fission Reactions
 
