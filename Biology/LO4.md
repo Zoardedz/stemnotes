@@ -15,7 +15,7 @@ The hydroxyl and phosphate groups are what identify the directionality of the DN
 
 The phosphate is the main backbone of the DNA structure, it shapes the DNA and is the main connection between every pentose sugar (deoxyribose).
 
-DNA has two primary strands wrapped together in a double-helix shape ***(USUALLY)***, this was proved by the diffraction of X-rays off of DNA fibers of purified DNA. ![](../assets/diffracted.png) Watson (colleague of Crick who contributed to a model for the DNA) was familiar with this type of X-ray diffraction pattern which allowed them to conclude that DNA is in a helical shape (helix) and was made up of two strands rather to a three-stranded model proposed by Linus Pauling.
+DNA has two primary strands wrapped together in a double-helix shape ***(USUALLY)***, this was proved by the diffraction of X-rays off of DNA fibers of purified DNA. ![](../assets/diffracted.png) Watson (colleague of Crick who contributed to a model for the DNA) was familiar with this type of X-ray diffraction pattern which allowed them to conclude that DNA is in a helical shape (helix) and was made up of two strands rather than a three-stranded model proposed by Linus Pauling.
 
 The two strands' sugar-phosphate backbones are antiparallel (they run in opposite directions.).
 
@@ -34,7 +34,7 @@ Because there's a one-to-one pairing of nucleotides, it turns out that the two s
 
 The left strand of DNA is mostly 5' to 3' from top to bottom and the other is 3' to 5' from top to bottom. (or 5' to 3' from bottom to top.).
 
-DNA is negatively charged if looked at from a physical point (due to the phosphates), B-DNA which is the most common way to look at it in a right-handed twist, one full twist of the molecule has 10 base pairs with 0.34nm between each nucleotide base. Each of them is planar and paired with the complementary base, it forms a planar "rung" on the "ladder" of DNA. These are perpendicular to the longitudinal axis of the DNA, best described in the following image:![](../assets/BDNA.png)
+DNA is negatively charged if looked at from a physical point (due to the phosphates), B-DNA which is the most common way to look at it in a right-handed twist, one full twist of the molecule has 10 base pairs with 0.34nm between each nucleotide base and has 20 nucleotides in total. Each of them is planar and paired with the complementary base, it forms a planar "rung" on the "ladder" of DNA. These are perpendicular to the longitudinal axis of the DNA, best described in the following image:![](../assets/BDNA.png)
 Most DNA in a cell or any aqueous solution is found in this B formation. But there are other forms under specific environmental circumstances.![](../assets/DNAtypes.png)
 
 # DNA replication

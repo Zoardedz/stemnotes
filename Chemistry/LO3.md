@@ -38,7 +38,7 @@ $E$<sub>photon</sub> = $h\nu$ = $\dfrac{hc}{\lambda}$  Where, yet again $h$ is P
 >  # **Photoelectric effect**
 
 Einstein reached the $E$<sub>photon</sub> conclusion through his analysis of the photoelectric effect (he won a Nobel prize for this), the photoelectric effect points to the phenomenon in which electrons are emitted from the surface of a metal when light strikes it, The following observations characterize the photoelectric effect:
-1. Experiments where they tried difference frequencies of light showed that no electrons are emitted by the metal if the frequency is below a threshold frequency $\nu$<sub>0</sub> 
+1. Experiments where they tried different frequencies of light showed that no electrons are emitted by the metal if the frequency is below a threshold frequency $\nu$<sub>0</sub> 
 2. The light below this threshold frequency emits no electrons regardless the intensity of the light or increasing of photons.
 3. For light with frequency higher than or equal to the threshold frequency, the number of electrons emitted increases with the intensity of the light.
 4. For light with frequency higher than or equal to the threshold frequency, the kinetic energy of the emitted electrons increases linearly (in a straight line in a graph) with the frequency of light.
@@ -48,6 +48,8 @@ Minimum energy required to remove an electron would be: $E$<sub>0</sub> = $h\nu$
 Because a photon with energy less than $E$<sub>0</sub> cannot remove an electron, light with a frequency less than the threshold frequency produces no electrons, meanwhile if it has a higher frequency (Therefore more energy) it gives the excess energy to the electron in the form of Kinetic Energy.
 
 $KE$<sub>electron</sub> = $\dfrac{1}{2}mv^2$ = $h\nu$ - $h\nu_0$ where $m$ is the mass of the electron ($9.11 * 10^{-31}kg$), $v$ is the velocity of the electron, $h\nu$ is the energy of the incident photon and $h\nu_0$ is the energy required to remove an electron, this is because the intensity of light is a measure of the number of photons present in a given part of the beam, a greater intensity means more photons are available to release more electrons (as stated, as long $\nu$ > $\nu_0$).
+
+Einstein said that light is a particle that has the flow of a wave.
 
 In another development, Einstein derived the famous equation
 $E = mc^2$
@@ -67,9 +69,19 @@ Where $m = \dfrac{h}{v\lambda}$ turns into $\lambda = \dfrac{h}{mv}$ which allow
 ># Energy emission of Hydrogen
 
 Bohr had derived an energy emission equation from hydrogen that ONLY works for mono electron systems for the sole reason that it considers the interactions between one electron and the nucleus.
-$E=-2.178*10^{-18}J(\dfrac{Z^2}{n^2})$  where Z is the nuclear charge (1 in a mono electron system) and n is an integer indicating the energy level where the larger the number, the larger the orbit radius, J is Joules. The negative sign in this equation indicates that this energy is lower than it would be if the electron were at an infinite distance from the nucleus (n=infinity). 
+$E=-2.178*10^{-18}J(\dfrac{Z^2}{n^2})$  where Z is the nuclear charge (1 in a mono electron system) and n is an integer indicating the energy level where the larger the number, the larger the orbit radius, J is Joules. The negative sign in this equation indicates that this energy is lower than it would be if the electron were at an infinite distance from the nucleus (n=infinity) (proves quantization).
 The change of energy is dependent on the before state and after state, where:
-	$\Delta E=E_{Post}-E_{Pre}$ where $E_{Post} = -2.178*10^{-18}(\dfrac{1^2}{n_{Post}^2})$ $E_{Pre} = -2.178*10^{-18}(\dfrac{1^2}{n_{Pre}^2})$, therefore, $\Delta E=-2.178*10^-18J(\dfrac{1}{n_{post}^{2}}-\dfrac{1}{n_{pre}^2})$, if the final n is infinity, then the energy required to remove the electron directly is $-2.178*10^{-18}J$ 
+	$\Delta E=E_{Post}-E_{Pre}$ where $E_{Post} = -2.178*10^{-18}(\dfrac{1^2}{n_{Post}^2})$ $E_{Pre} = -2.178*10^{-18}(\dfrac{1^2}{n_{Pre}^2})$, therefore, $\Delta E=-2.178*10^-18J(\dfrac{1}{n_{post}^{2}}-\dfrac{1}{n_{pre}^2})$, if the n = 1, then the energy required to remove the electron directly is $2.178*10^{-18}J$ 
+
+We may also calculate the quantized energy of an electron using:
+$E_e = \dfrac{-2.178*10^{-18}J}{n^2}J$
+This also denotes the ionization energy of that electron in a hydrogen atom at a different energy level than the base ground (n=1).
+We can find the wavelength of the photon that the electron emitted by falling into a lower energy level or the wavelength the photon absorbed by jumping into a higher energy level.
+$\dfrac{1}{\lambda}=R(\dfrac{1}{n_{Post}^2}-\dfrac{1}{n_{Pre}^2})m^-1$ where R is the Rydberg constant (this is called Rydberg's equation), R is denoted $R_\infty$ on the calculator.
+Notes:
+1. Any electron emitted from n $\geq$ 2 to 1, then the wavelength belongs to ultraviolet rays. (Lyman series).
+2. Any electron emitted from n $\geq$ 3 to 2, then the wavelength belongs to visible light. (Balmer series).
+3. Any electron emitted from n $\geq$ 4 to 3, then the wavelength belongs to infrared rays. (Paschen series).
 
  >[!abstract] 
 ># The atomic spectrum of elements otherwise known as the emission spectrum of elements. 
@@ -87,12 +99,12 @@ In classical physics, it's said that a charged particle (For example, the electr
 Now, you know quantum numbers, quick revision.
 The main energy level is written to the left of the sublevel, ex: 2p which is n 
 the subsidiary quantum number or the angular momentum quantum number or the secondary quantum number or the azimuthal energy level whatever you wanna call it, has the number of the sublevel, s is indexed as 0, p is indexed as 1, d is indexed as 2, f is indexed as 3.
-now, m<sub>l</sub> is the magnetic quantum number, and this is which orbital this electron is stored in, for example: 3p<sup>4</sup> and we consider getting the last electron then, n = 3, l = 1, m<sub>l</sub> = -1 (ranges between -l to l in a closed interval), each orbital carries two electrons.
+now, m<sub>l</sub> is the magnetic quantum number, and this is which orbital this electron is stored in, for example: 3p<sup>4</sup> and we consider getting the last electron then, n = 3, l = 1, m<sub>l</sub> = -1 (ranges between -l to l in a closed interval) calculated by $n^2$ or $2l+1$, each orbital carries two electrons.
 m<sub>s</sub> which is the magnetic spin quantum number, is the direction of the electron whether it'd be up or down in this case it'd be down (-1/2) and up is (1/2).
 
-Each orbital has a shape, which is clearly represented by a probability distribution because electrons aren't always in that place, other than they're also instantaneous, you can never find the current position of an orbiting electron. The s sublevel for example is spherical, but as you increase the energy level, you get a higher amount of something called nodes which is generally how big the next energy level is, number of nodes is energy level number - 1.
+Each orbital has a shape, which is clearly represented by a probability distribution because electrons aren't always in that place, other than they're also instantaneous, you can never find the current position of an orbiting electron. The s sublevel for example is spherical, but as you increase the energy level, you get a higher amount of something called nodes which is generally how big the next energy level is, number of total nodes is n - 1, number of radial nodes is given by n-l-1, number of angular nodes is given by l.
 
-An orbital in 2p looks like two irregular peas squished into eachother. ![](../assets/porbital.png)
+An orbital in 2p looks like two irregular peas squished into eachother, or a dumbbell. ![](../assets/porbital.png)
 
 Meanwhile the 3p orbital adds another node to those, so they look like a sound wave (Sort of)![](thirdporbital.png)
 
@@ -104,7 +116,11 @@ Meanwhile the 3p orbital adds another node to those, so they look like a sound w
 # Some restrictions relating to the quantum numbers
 
 **Pauli's exclusion principle:** which states that no two electrons can have the same four quantum numbers $n, l, ml, ms$.
-**Hund's rule:** Orbitals may have identical energy levels when they're of the same principal shell. These orbitals are called degenerate, or "equal energy". Electrons fill orbitals one at a time, one up and one down.
+
+**Hund's rule:** Orbitals may have identical energy levels when they're of the same principal shell. These orbitals are called degenerate, or "equal energy". Electrons fill orbitals one at a time, one up and one down and it seeks to fill all the orbitals with similar energy.
+
+**Aufbau Principle**: The lower energy orbitals are filled before the higher energy orbitals.
+
 **Heisenberg's uncertainty principle:** We cannot precisely measure the momentum and position of an electron at the same time. As the momentum is more and more certain, the position becomes less certain and vice versa. This is why $n$ belongs to $Z$. If there were partial waves, they wouldn't work well with complete waves as they'd cancel eachother out.
 
 > [!abstract] 
@@ -126,15 +142,15 @@ This happens because the heat of the flame excites the electrons of the metals c
 To finish off:
 # The excited state of the atom.
 
-This means that the atom or molecule or nucleus is in an energy condition more than the ground, offset state. Excitation refers to the increasing of an energy level above the starting point (ground state or an excited state, depending on the question), the temperature also  must be taken into consideration here.
+This means that the atom or molecule or nucleus is in an energy condition more than the ground, offset state. Excitation refers to the increasing of an energy level above the starting point (ground state or an excited state, depending on the question), the temperature also must be taken into consideration here.
 
-The lifetime of a system in an excited state is usually short, spontaneous or induced emissions, spontaneous meaning it lost some energy and released a quanta or quantum meanwhile induced emissions meaning that an incident photon hit the electron and caused it to bounce to a lower energy level, losing its energy and releasing it as an image of a photon with a different wavelength, only: frequency, polarization and light direction are like eachother in incident and reflected photons.
+The lifetime of a system in an excited state is usually short, spontaneous or induced emissions, spontaneous emissions meaning it lost some energy and released a quanta or quantum meanwhile induced emissions meaning that an incident photon hit the electron and caused it to bounce to a lower energy level, losing its energy and releasing it as an image of a photon with a different wavelength, only: frequency, polarization and light direction are like eachother in incident and reflected photons.
 
 The decrease of energy is also known as decay and is the inverse of excitation.
 
 Atomic excitation can be achieved by high heat, for example the hydrogen atom.
 The ground state of a hydrogen atom is the single electron in the lowest possible orbital.
 
-If the electron has too much energy it will cease to be bound to the atom and the atom will become ionized (lose an electron or more therefore being a positive electron), after the excited state the atom may return to a lesser state of excitement or the ground state by emitting a photon in the form of emission lines.
+If the electron has too much energy it will cease to be bound to the atom and the atom will become ionized (lose an electron or more therefore being a positive ion), after the excited state the atom may return to a lesser state of excitement or the ground state by emitting a photon in the form of emission lines.
 
 The term for a high excited state atom is Rydberg atom.

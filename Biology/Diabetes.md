@@ -1,14 +1,14 @@
 # Overview
 
 Diabetes mellitus refers to a group of chronic diseases that affect how the body controls the glucose/sugar levels in the blood, either concerning that the pancreas doesn't secrete a sufficient amount of insulin or that it secretes a sufficient amount, but the body is incapable of effectively using it. Said chronic diabetes conditions include type 1 diabetes and type 2 diabetes (there's an untold type 3 diabetes which is referred to as Alzheimer's due to the incorporation of glucose and the brain as they believe that insulin dysregulation in the brain causes dementia.),, 
-Hyperglycemia, also called raised blood glucose or raised blood sugar, is a common effect of uncontrolled diabetes, or prediabetes depending on the first name, Non-diabetic hyperglycemia (pre-diabetes) is when the blood sugar levels are higher than normal, but not high enough to be called diabetes (as in an interval range, but its before the too-high mark.), people with pre-diabetes are at risk of developing type 2 diabetes, but the risk can be reduced through lifestyle changes said in ways to avoid the disease.
+Hyperglycemia, also called raised blood glucose or raised blood sugar, is a common effect of uncontrolled diabetes, or prediabetes depending on the first name, Non-diabetic hyperglycemia (pre-diabetes) is when the blood sugar levels are higher than normal, but not high enough to be called diabetes (as in an interval range, but it's before the too-high mark.), people with pre-diabetes are at risk of developing type 2 diabetes, but the risk can be reduced through lifestyle changes said in ways to avoid the disease.
 Another type is Gestational diabetes which happens during pregnancy, but it may go away post-labor.
 
 Type 1 diabetes is caused by not being able to make a sufficient amount of insulin, type 2 diabetes is caused by the tissues being resistant to insulin's effects.
 
 Diabetes' mode of transmission is vertical (hereditary/genetic). Type 1 occurs due to the immune system attacking healthy tissue, usually starts when the immune system is fully developed in childhood.
 
-Its risk factors depend on the type of diabetes, if its family history then it may play in both types, if its environmental factors and geography then it attributes to type 1. The main antibodies causing diabetes type 1 are called diabetes immune system cells (autoantibodies). The race is another significant factor, Black, Hispanic, American Indian and Asian American people are at higher risk.
+Its risk factors depend on the type of diabetes, if it's family history then it may play in both types, if it's environmental factors and geography then it attributes to type 1. The main antibodies causing diabetes type 1 are called diabetes immune system cells (autoantibodies). The race is another significant factor, Black, Hispanic, American Indian and Asian American people are at higher risk.
 
 Type 2, pre-diabetes and gestational diabetes are more prominent in obese individuals.
 # Symptoms

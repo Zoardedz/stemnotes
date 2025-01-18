@@ -16,7 +16,7 @@ Naturally, things tend to achieve the lowest energy or have the most stable form
 
 # Nomenclature (the naming) of compounds
 
-In general forms, alkanes can be attributed to single bonds, alkenes or also known as alkylenes can be attributed to double bonds, alkynes can be attributed to triple bonds, (use the suffix from the ends of these alka- prefixes in the naming of the compound (in the suffix, as:)). For example: Hex**ane**, But**ane**, Pent**ene** or Pent**ylenes**.
+In general forms, alkanes can be attributed to single bonds, alkenes or also known as alkylenes can be attributed to double bonds, alkynes can be attributed to triple bonds, (use the suffix from the ends of these alka- prefixes in the naming of the compound (in the suffix, as:)). For example: Hex**ane**, But**ane**, Pent**ene** or Pent**ynes**.
 
 Alkanes have a chemical formula of $C_nH_{2n+2}$, Alkenes have a chemical formula of $C_nH_{2n}$, Alkynes have a chemical formula of $C_nH_{2n-2}$. The prefix for the compound should be deduced according to $n$ which is the number of satisfied Carbons, where:
 
@@ -33,7 +33,21 @@ Alkanes have a chemical formula of $C_nH_{2n+2}$, Alkenes have a chemical formul
 | 10. | Dec-  |
 Also, Alkynes are more active than Alkenes and Alkanes, Alkenes are more active than Alkanes.
 
-Alongside Alkynes, Alkenes and Alkanes, there are Alkyls which always have an odd number in the chemical composition where: $C_nH_{2n+1}$.
+Alongside Alkynes, Alkenes and Alkanes, there are Alkyls which always have an odd number in the chemical composition where: $C_nH_{2n+1}$, they're actually atomic groups.
+
+Alkanes are described as saturated since they only have single sigma bonds, therefore they show a slight affinity to share in a chemical reaction, they're called paraffins.
+	Sigma bonds' strength make the Alkanes relatively unreactive.
+Alkenes and Alkynes are unsaturated.
+
+Each carbon atom in an alkane bonds with four sigma bonds of sp3 type, and the angle between each two bonds = 109.5$\degree$. Alkanes are non-polar compounds.
+
+![](../assets/alkaneproperties.png)
+
+Alkenes are called Olifenes.
+
+![](../assets/alkeneproperties.png)
+
+Alkynes are called Acetylenes.
 # Naming according to the structure
 
 The principle for naming according to structure is:
@@ -48,7 +62,16 @@ When ordering after finding the longest chain, you should order from the least f
 ![](../assets/Formula.png)
 You should also order according to the alphabetical order, so your end result would be something like "2-Br-6-Cl-Heptane".
 
+![](../assets/cycloalkanes.png)
+
+![](../assets/unsatcyclicanes.png)
+![](../assets/fent.png)
+
 # Isomers
 
 Isomers are the same chemical compound with the same formula but a different chemical arrangement, they can be caused by multiple things.
+The first molecular formula which can have isomers is C4H8.
+
 ![](../assets/Isomer_flowchart.png)
+
+E and Z are trans and cis isomers respectively.

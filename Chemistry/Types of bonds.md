@@ -23,6 +23,8 @@ The degree of the polarity varies, the polarity scale can just be measured "low 
 The strength of the covalent bond varies, but it comes after ionic bonds.
 Like H<sub>2</sub>, N<sub>2</sub>, H<sub>2</sub>O.
 
+Non-polar compounds have no dipole moments, meanwhile polar compounds do.
+
 # Metallic Bonds
 
 Metals have several qualities that are unique, such as the ability to conduct electricity, a low ionization energy and a low electronegativity. Metallic bonding is like covalent bonding, because it involves sharing electrons. The simplest model of metallic bonding is the "sea of electrons" model, which says that the atoms sit in a sea of valence electrons that are delocalized over all the atoms. This is because there aren't specific bonds between individual atoms, therefore: metals are more flexible. Some metals are very hard and have very high melting points, while others are soft and have low melting points which depends roughly on the number of valence electrons that form the sea.
@@ -66,7 +68,7 @@ For example: there is one sigma bond for two C-C bonds.
 
 s-s Overlapping is when one "s" orbital from each participating atom undergoes head-on overlapping along the internuclear axis, an s orbital must be half filled before it overlaps with another (mainly due to hybridization). 
 
-s-p Overlapping is when one half-filled "s" orbital overlaps with one half-filled "p" orbitals along the internuclear axis forming a covalent bond.
+s-p Overlapping is when one half-filled "s" (s1) orbital overlaps with one half-filled "p" (p3) orbitals along the internuclear axis forming a covalent bond.
 
 I think you understand the jist, half filled sub-level and sub-level along the internuclear axis causing a covalent bond, apply that same thing for a p-p overlap.
 
