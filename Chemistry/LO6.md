@@ -64,6 +64,8 @@ The half-life of a radioactive isotope is when the yield mass of the radioactive
 
 The rate of decay for these isotopes is achieved through $t_{\dfrac{1}{2}}= \dfrac{ln(2)}{k} = \dfrac{0.693}{k}$ where k is the rate of decay in hours. k is a constant across radioactive elements. This is achieved through the first-order kinetics formula where it depends on the slope continually decreases as time progresses until it reaches zero.
 
+An equation that has everything included is:
+Final amount = Initial amount * $e^{-kt}$ where k is the rate of decay constant = $\dfrac{ln(2)}{t_{\dfrac{1}{2}}}$ where t half equals the half life and t is the time it took to reach that final amount. 
 # Strong forces and Nuclear Binding Energy
 
 The nuclear binding energy is calculated through Einstein's equation, $E=mc^2$ as it's the only way to convert between mass and energy. To achieve the mass, the mass of the protons, neutrons and electrons must be known, for example, to calculate the nuclear binding energy for a Helium atom, we must add the masses where the mass of a proton is 1.0073amus, neutrons are 1.0087amus, electrons are 0.00055amus, negligible mass but must be considered. these are summed into the mass of the entire atom. When you add all of these up, they're not the same mass as an actual Helium atom (4.0026amus). This is due to something known as the mass defect of the atom, in the case of mass defect indicates a loss in mass, this is due to the conversion of that defected mass to energy that is evolved as the atom forms. 

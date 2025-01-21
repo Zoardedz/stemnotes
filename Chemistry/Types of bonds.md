@@ -55,7 +55,7 @@ This can happen and cause Argon covalent bonds to arise.
 
 Dipole-Dipole forces are attractive forces that arise between the positive end of a polar covalent bond with the negative end of another negative polar covalent bond, they are much weaker than the ionic or covalent bonds and have a significant effect only when the molecules in the interaction are really close to eachother.
 
-Dipole's can be called permanent Dipoles when they're an ionic bond.
+Dipoles can be called permanent Dipoles when they're an ionic bond.
 
 Example: HCl is a permanent dipole bond.
 # Sigma bonds

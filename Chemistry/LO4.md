@@ -24,7 +24,7 @@ We also have the ionization energy, which is the energy required to remove an el
 It's also affected by electron shielding which describes the atom's core (inner) electrons to shield the nucleus from the valence electrons (weakens the attraction between the nucleus and valence electrons). When going to the right of the periodic table the shielding strength increases and therefore it is easier for the valence shell to ionize, therefore ionization decreases down a group because shielding decreases down a group. Electron shielding is also named screening.
 
 Although that's usually how ionization goes, sometimes it can't have the same trend applied, sometimes it decreases and then goes back down. This happens in groups 2 and 13 as group 2 has completely filled electronic configurations, so group 2 has more ionization energy than group 13.
-Since group 15 has a half-filled electronic configuration therefore it has more ionization energy than group 16. Half-filled asymmetrical electronic configurations provide more stability.
+Since group 15 has a half-filled electronic configuration therefore it has more ionization energy than group 16. Half-filled symmetrical electronic configurations provide more stability.
 
 The closer the ionization energies are the weaker the bonds and vice versa.
 
